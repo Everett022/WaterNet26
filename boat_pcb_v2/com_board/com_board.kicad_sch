@@ -11466,7 +11466,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:INDC1608X95N"
+		(property "Footprint" "WaterNet26_Parts_Lib:INDC1608X95N"
 			(at 86.36 26.67 0)
 			(effects
 				(font
@@ -11883,7 +11883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:SULLINS_NPPN101BFCN-RC"
+		(property "Footprint" "WaterNet26_Parts_Lib:SULLINS_NPPN101BFCN-RC"
 			(at 308.61 151.13 0)
 			(effects
 				(font
@@ -12404,7 +12404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:SMB"
+		(property "Footprint" "WaterNet26_Parts_Lib:SMB"
 			(at 323.85 200.66 0)
 			(effects
 				(font
@@ -12877,7 +12877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:SOT95P280X100-6N"
+		(property "Footprint" "WaterNet26_Parts_Lib:SOT95P280X100-6N"
 			(at 265.43 97.79 0)
 			(effects
 				(font
@@ -13388,7 +13388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:SOT95P280X100-6N"
+		(property "Footprint" "WaterNet26_Parts_Lib:SOT95P280X100-6N"
 			(at 264.16 38.1 0)
 			(effects
 				(font
@@ -14054,7 +14054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:B04B-PASK-1"
+		(property "Footprint" "WaterNet26_Parts_Lib:B04B-PASK-1"
 			(at 166.37 231.14 0)
 			(effects
 				(font
@@ -14426,7 +14426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:LED_CLMVC-FKA-CL1D1L71BB7C3C3"
+		(property "Footprint" "WaterNet26_Parts_Lib:LED_CLMVC-FKA-CL1D1L71BB7C3C3"
 			(at 242.57 228.6 0)
 			(effects
 				(font
@@ -15396,7 +15396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:B04B-PASK-1"
+		(property "Footprint" "WaterNet26_Parts_Lib:B04B-PASK-1"
 			(at 130.81 231.14 0)
 			(effects
 				(font
@@ -16579,7 +16579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:b404x"
+		(property "Footprint" "WaterNet26_Parts_Lib:b404x"
 			(at 135.89 21.59 0)
 			(effects
 				(font
@@ -16922,7 +16922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:INDC1608X95N"
+		(property "Footprint" "WaterNet26_Parts_Lib:INDC1608X95N"
 			(at 299.72 33.02 0)
 			(effects
 				(font
@@ -17533,7 +17533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:SMB"
+		(property "Footprint" "WaterNet26_Parts_Lib:SMB"
 			(at 323.85 209.55 0)
 			(effects
 				(font
@@ -20651,7 +20651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:INDC1608X95N"
+		(property "Footprint" "WaterNet26_Parts_Lib:INDC1608X95N"
 			(at 300.99 92.71 0)
 			(effects
 				(font
@@ -20729,7 +20729,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Com_Board_Parts_Lib:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26_Parts_Lib:SOT95P240X110-3N"
 			(at 148.59 165.1 0)
 			(effects
 				(font
