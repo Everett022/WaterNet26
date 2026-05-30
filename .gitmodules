@@ -1,0 +1,3 @@
+[submodule "WaterNet26_Library"]
+	path = WaterNet26_Library
+	url = https://github.com/Everett022/WaterNet26_Library.git
