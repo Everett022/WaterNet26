@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "WaterNetPowerBoardLibrary")(type "KiCad")(uri "${KIPRJMOD}/WaterNetPowerBoardLibrary.pretty")(options "")(descr ""))
+  (lib (name "WaterNetPowerBoardLibrary")(type "KiCad")(uri "${KIPRJMOD}/../../WaterNet26_Library/power_board_lib/WaterNetPowerBoardLibrary.pretty")(options "")(descr ""))
 )

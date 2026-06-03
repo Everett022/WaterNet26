@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WN_sensor_board")(type "KiCad")(uri "${KIPRJMOD}/../../WaterNet26_Library/sensor_board_lib/WN_sensor_board.kicad_sym")(options "")(descr ""))
+)

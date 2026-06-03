@@ -1,4 +1,4 @@
-25239510980214745
+25243065140705198
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101282,63 +101282,77 @@ Varistor VF
 0
 2
 2
-WaterNet26_Parts_Lib
+WN_com_board
 B04B-PASK-1
 Header 4 pin, top entry type, 2mm pitch.
 
 0
 4
 4
-WaterNet26_Parts_Lib
+WN_com_board
+IC_CP2102N-A02-GQFN28R
+
+
+0
+29
+29
+WN_com_board
 INDC1608X95N
 
 
 0
 2
 2
-WaterNet26_Parts_Lib
+WN_com_board
 LED_CLMVC-FKA-CL1D1L71BB7C3C3
 
 
 0
 4
 4
-WaterNet26_Parts_Lib
+WN_com_board
 SMB
 <B>DIODE</B>
 
 0
 2
 2
-WaterNet26_Parts_Lib
+WN_com_board
+SOP65P640X120-14N
+
+
+0
+14
+14
+WN_com_board
 SOT95P240X110-3N
 
 
 0
 3
 3
-WaterNet26_Parts_Lib
+WN_com_board
 SOT95P280X100-6N
 
 
 0
 6
 6
-WaterNet26_Parts_Lib
+WN_com_board
 SULLINS_NPPN101BFCN-RC
 
 
 0
 20
 10
-WaterNet26_Parts_Lib
+WN_com_board
 SW_TS04-66-50-BK-160-SMT-TR
 
 
 0
 4
 4
-WaterNet26_Parts_Lib
+WN_com_board
 b404x
 
 

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "WN_com_board")(type "KiCad")(uri "${KIPRJMOD}/../../WaterNet26_Library/com_board_lib/com_board.pretty")(options "")(descr ""))
+)
