@@ -1,5 +1,11 @@
 .DS_Store
-WaterNetPowerBoard/~WaterNetPowerBoard.kicad_pcb.lck
-WaterNetPowerBoard/~WaterNetPowerBoard.kicad_sch.lck
-WaterNetPowerBoard/WaterNetPowerBoard-backups
+boat_pcb_v2/WN_power_board/~WaterNetPowerBoard.kicad_pcb.lck
+boat_pcb_v2/WN_power_board/~WaterNetPowerBoard.kicad_sch.lck
+boat_pcb_v2/WN_power_board/WaterNetPowerBoard-backups
+boat_pcb_v2/WN_com_board/~com_board.kicad_pcb.lck
+boat_pcb_v2/WN_com_board/~com_board.kicad_sch.lck
+boat_pcb_v2/WN_com_board/com_board-backups
+boat_pcb_v2/WN_sensor_board/~sensor_board.kicad_pcb.lck
+boat_pcb_v2/WN_sensor_board/~sensor_board.kicad_sch.lck
+boat_pcb_v2/WN_sensor_board/sensor_board-backups
 WaterNet26_Library_backup
