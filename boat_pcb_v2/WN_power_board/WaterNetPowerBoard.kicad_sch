@@ -5,7 +5,7 @@
 	(uuid "583f1233-d21c-4779-8087-ef83dbe451c8")
 	(paper "A1")
 	(lib_symbols
-		(symbol "WaterNetPowerBoardLibrary:0680L5000-05"
+		(symbol "WaterNet26 Library:0680L5000-05"
 			(pin_names
 				(offset 1.016)
 			)
@@ -30,7 +30,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "0680L5000-05:FUSC6125X279N"
+			(property "Footprint" "WaterNet26 Library:FUSC6125X279N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -266,7 +266,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:350761-4"
+		(symbol "WaterNet26 Library:350761-4"
 			(pin_names
 				(offset 1.016)
 			)
@@ -291,7 +291,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "350761-4:TE_350761-4"
+			(property "Footprint" "WaterNet26 Library:TE_350761-4"
 				(at 0 0 0)
 				(effects
 					(font
@@ -451,8 +451,8 @@
 			)
 			(symbol "350761-4_0_0"
 				(rectangle
-					(start -5.08 -5.08)
-					(end 2.54 7.62)
+					(start -5.08 7.62)
+					(end 2.54 -5.08)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -536,7 +536,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:470531000"
+		(symbol "WaterNet26 Library:470531000"
 			(pin_names
 				(offset 1.016)
 			)
@@ -967,7 +967,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:AP62301WU-7"
+		(symbol "WaterNet26 Library:AP62301WU-7"
 			(pin_names
 				(offset 1.016)
 			)
@@ -992,7 +992,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "AP62301WU-7:SOT95P280X100-6N"
+			(property "Footprint" "WaterNet26 Library:SOT95P280X100-6N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1283,7 +1283,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:B2B-PH-K-S"
+		(symbol "WaterNet26 Library:B2B-PH-K-S"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1308,7 +1308,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "B2B-PH-K-S:JST_B2B-PH-K-S"
+			(property "Footprint" "WaterNet26 Library:JST_B2B-PH-K-S"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1498,8 +1498,8 @@
 					)
 				)
 				(rectangle
-					(start -4.2863 -2.54)
-					(end 5.8738 5.08)
+					(start -4.2863 5.08)
+					(end 5.8738 -2.54)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -1547,7 +1547,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:BSS123-7-F"
+		(symbol "WaterNet26 Library:BSS123-7-F"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1572,7 +1572,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+			(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 				(at 6.35 1.27 0)
 				(effects
 					(font
@@ -1799,7 +1799,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:C1F-3"
+		(symbol "WaterNet26 Library:C1F-3"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1824,7 +1824,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "C1F-3:FUSC3215X83N"
+			(property "Footprint" "WaterNet26 Library:FUSC3215X83N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2200,7 +2200,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:C3216X5R1E476M160AC"
+		(symbol "WaterNet26 Library:C3216X5R1E476M160AC"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2225,7 +2225,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "C3216X5R1E476M160AC:CAPC3216X180N"
+			(property "Footprint" "WaterNet26 Library:CAPC3216X180N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2395,7 +2395,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL05B102KB5NNNC"
+		(symbol "WaterNet26 Library:CL05B102KB5NNNC"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2420,7 +2420,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL05B102KB5NNNC:CAPC1005X55N"
+			(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2760,7 +2760,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL05B104KA5NNNC"
+		(symbol "WaterNet26 Library:CL05B104KA5NNNC"
 			(pin_names
 				(offset 1.016)
 			)
@@ -2785,7 +2785,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL05B104KA5NNNC:CAPC1005X55N"
+			(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3135,7 +3135,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL10A106MA8NRNC"
+		(symbol "WaterNet26 Library:CL10A106MA8NRNC"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3160,7 +3160,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL10A106MA8NRNC:CAPC1608X100N"
+			(property "Footprint" "WaterNet26 Library:APC1608X100N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3510,7 +3510,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL10B103KB8NNNC"
+		(symbol "WaterNet26 Library:CL10B103KB8NNNC"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3535,7 +3535,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL10B103KB8NNNC:CAPC1608X90N"
+			(property "Footprint" "WaterNet26 Library:CAPC1608X90N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3875,7 +3875,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL10C180JB81PNC"
+		(symbol "WaterNet26 Library:CL10C180JB81PNC"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3900,7 +3900,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL10C180JB81PNC:CAPC1608X90N"
+			(property "Footprint" "WaterNet26 Library:CAPC1608X90N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4240,7 +4240,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL21A106KAYNNNE"
+		(symbol "WaterNet26 Library:CL21A106KAYNNNE"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4265,7 +4265,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+			(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4605,7 +4605,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL21B104KACNNNC"
+		(symbol "WaterNet26 Library:CL21B104KACNNNC"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4630,7 +4630,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+			(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4970,7 +4970,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL21B104KCFSFNE"
+		(symbol "WaterNet26 Library:CL21B104KCFSFNE"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4995,7 +4995,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL21B104KCFSFNE:CAPC2012X135N"
+			(property "Footprint" "WaterNet26 Library:CAPC2012X135N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5335,7 +5335,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL21Y105KCYVPNE"
+		(symbol "WaterNet26 Library:CL21Y105KCYVPNE"
 			(pin_names
 				(offset 1.016)
 			)
@@ -5360,7 +5360,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL21Y105KCYVPNE:CAPC2012X145N"
+			(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5700,7 +5700,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CL32Y106KCVZNWE"
+		(symbol "WaterNet26 Library:CL32Y106KCVZNWE"
 			(pin_names
 				(offset 1.016)
 			)
@@ -5725,7 +5725,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CL32Y106KCVZNWE:CAPC3225X280N"
+			(property "Footprint" "WaterNet26 Library:CAPC3225X280N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6065,7 +6065,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CLMVC-FKA-CL1D1L71BB7C3C3"
+		(symbol "WaterNet26 Library:CLMVC-FKA-CL1D1L71BB7C3C3"
 			(pin_names
 				(offset 1.016)
 			)
@@ -6090,7 +6090,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "CLMVC-FKA-CL1D1L71BB7C3C3:LED_CLMVC-FKA-CL1D1L71BB7C3C3"
+			(property "Footprint" "WaterNet26 Library:LED_CLMVC-FKA-CL1D1L71BB7C3C3"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6760,7 +6760,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CS1213AGF160"
+		(symbol "WaterNet26 Library:CS1213AGF160"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -6781,7 +6781,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "CS1213AGF160:CS1213AGF160"
+			(property "Footprint" "WaterNet26 Library:CS1213AGF160"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6917,7 +6917,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CSNL1206FT1L00"
+		(symbol "WaterNet26 Library:CSNL1206FT1L00"
 			(pin_names
 				(offset 1.016)
 			)
@@ -6942,7 +6942,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CSNL1206FT1L00:RESC3216X90N"
+			(property "Footprint" "WaterNet26 Library:RESC3216X90N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7208,7 +7208,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:CSS2725FT1L00"
+		(symbol "WaterNet26 Library:CSS2725FT1L00"
 			(pin_names
 				(offset 1.016)
 			)
@@ -7233,7 +7233,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "CSS2725FT1L00:RESC6864X134N"
+			(property "Footprint" "WaterNet26 Library:RESC6864X134N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7489,7 +7489,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ECS-120-12-33-AGN-TR"
+		(symbol "WaterNet26 Library:ECS-120-12-33-AGN-TR"
 			(pin_names
 				(offset 1.016)
 			)
@@ -7514,7 +7514,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "ECS-120-12-33-AGN-TR:XTAL_ECS-120-12-33-AGN-TR"
+			(property "Footprint" "WaterNet26 Library:XTAL_ECS-120-12-33-AGN-TR"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7751,7 +7751,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERA-3AEB4990V"
+		(symbol "WaterNet26 Library:ERA-3AEB4990V"
 			(pin_names
 				(offset 1.016)
 			)
@@ -7776,7 +7776,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "ERA-3AEB4990V:RESC1608X55N"
+			(property "Footprint" "WaterNet26 Library:RESC1608X55N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8032,7 +8032,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERA6AEB103V"
+		(symbol "WaterNet26 Library:ERA6AEB103V"
 			(pin_names
 				(offset 1.016)
 			)
@@ -8057,7 +8057,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+			(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8353,7 +8353,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERA6AEB104V"
+		(symbol "WaterNet26 Library:ERA6AEB104V"
 			(pin_names
 				(offset 1.016)
 			)
@@ -8378,7 +8378,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "ERA6AEB104V:RES_ERA6AEB104V"
+			(property "Footprint" "WaterNet26 Library:RES_ERA6AEB104V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8674,7 +8674,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERA6AEB304V"
+		(symbol "WaterNet26 Library:ERA6AEB304V"
 			(pin_names
 				(offset 1.016)
 			)
@@ -8699,7 +8699,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "ERA6AEB304V:RES_ERA6AEB304V"
+			(property "Footprint" "WaterNet26 Library:RES_ERA6AEB304V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8995,7 +8995,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERA6AEB3162V"
+		(symbol "WaterNet26 Library:ERA6AEB3162V"
 			(pin_names
 				(offset 1.016)
 			)
@@ -9020,7 +9020,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "ERA6AEB3162V:RES_ERA6AEB3162V"
+			(property "Footprint" "WaterNet26 Library:RES_ERA6AEB3162V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -9326,7 +9326,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERJ-8BWFR100V"
+		(symbol "WaterNet26 Library:ERJ-8BWFR100V"
 			(pin_names
 				(offset 1.016)
 			)
@@ -9351,7 +9351,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "ERJ-8BWFR100V:RES_ERJ-8BWFR100V"
+			(property "Footprint" "WaterNet26 Library:RES_ERJ-8BWFR100V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -9658,7 +9658,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERJ2RKF1000X"
+		(symbol "WaterNet26 Library:ERJ2RKF1000X"
 			(pin_names
 				(offset 1.016)
 			)
@@ -9683,7 +9683,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "ERJ2RKF1000X:RES_ERJ2RKF1000X"
+			(property "Footprint" "WaterNet26 Library:RES_ERJ2RKF1000X"
 				(at 0 0 0)
 				(effects
 					(font
@@ -9989,7 +9989,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERJ3EKF1000V"
+		(symbol "WaterNet26 Library:ERJ3EKF1000V"
 			(pin_names
 				(offset 1.016)
 			)
@@ -10014,7 +10014,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "ERJ3EKF1000V:RES_ERJ3EKF1000V"
+			(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1000V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10310,7 +10310,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ERJ3EKF1501V"
+		(symbol "WaterNet26 Library:ERJ3EKF1501V"
 			(pin_names
 				(offset 1.016)
 			)
@@ -10335,7 +10335,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "ERJ3EKF1501V:RES_ERJ3EKF1501V"
+			(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1501V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10631,7 +10631,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:ESP32-S3-WROOM-1"
+		(symbol "WaterNet26 Library:ESP32-S3-WROOM-1"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -10651,7 +10651,7 @@
 					)
 				)
 			)
-			(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
+			(property "Footprint" "WaterNet26 Library:ESP32-S3-WROOM-1"
 				(at 0 2.54 0)
 				(effects
 					(font
@@ -11477,7 +11477,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:INA4181A3IPWR"
+		(symbol "WaterNet26 Library:INA4181A3IPWR"
 			(pin_names
 				(offset 1.016)
 			)
@@ -11502,7 +11502,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "INA4181A3IPWR:SOP65P640X120-20N"
+			(property "Footprint" "WaterNet26 Library:SOP65P640X120-20N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -11959,7 +11959,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:MCP2200-I_SO"
+		(symbol "WaterNet26 Library:MCP2200-I_SO"
 			(pin_names
 				(offset 1.016)
 			)
@@ -11984,7 +11984,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MCP2200-I_SO:SOIC20"
+			(property "Footprint" "WaterNet26 Library:SOIC20"
 				(at 0 0 0)
 				(effects
 					(font
@@ -12497,7 +12497,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:MIC28514T-E_PHA"
+		(symbol "WaterNet26 Library:MIC28514T-E_PHA"
 			(pin_names
 				(offset 1.016)
 			)
@@ -12522,7 +12522,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "MIC28514T-E_PHA:CONV_MIC28514T-E_PHA"
+			(property "Footprint" "WaterNet26 Library:CONV_MIC28514T-E_PHA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -13745,7 +13745,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:PTS810_SJM_250_SMTR_LFS"
+		(symbol "WaterNet26 Library:PTS810_SJM_250_SMTR_LFS"
 			(pin_names
 				(offset 1.016)
 			)
@@ -13770,7 +13770,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "PTS810_SJM_250_SMTR_LFS:SW_PTS810_SJM_250_SMTR_LFS"
+			(property "Footprint" "WaterNet26 Library:SW_PTS810_SJM_250_SMTR_LFS"
 				(at 0 0 0)
 				(effects
 					(font
@@ -14106,7 +14106,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:RB070MM-30TR"
+		(symbol "WaterNet26 Library:RB070MM-30TR"
 			(pin_names
 				(offset 1.016)
 			)
@@ -14131,7 +14131,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "RB070MM-30TR:DIO_RB070MM-30TR"
+			(property "Footprint" "WaterNet26 Library:DIO_RB070MM-30TR"
 				(at 0 0 0)
 				(effects
 					(font
@@ -14463,7 +14463,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:RMCF0603FT10R0"
+		(symbol "WaterNet26 Library:RMCF0603FT10R0"
 			(pin_names
 				(offset 1.016)
 			)
@@ -14488,7 +14488,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+			(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -14744,7 +14744,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:RMCF0603FT5K10"
+		(symbol "WaterNet26 Library:RMCF0603FT5K10"
 			(pin_names
 				(offset 1.016)
 			)
@@ -14769,7 +14769,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "RMCF0603FT5K10:RESC1508X55N"
+			(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -15025,7 +15025,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:RMCF0805FT2R00"
+		(symbol "WaterNet26 Library:RMCF0805FT2R00"
 			(pin_names
 				(offset 1.016)
 			)
@@ -15050,7 +15050,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "RMCF0805FT2R00:RESC2012X65N"
+			(property "Footprint" "WaterNet26 Library:RESC2012X65N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -15306,7 +15306,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:RT0603BRD072K2L"
+		(symbol "WaterNet26 Library:RT0603BRD072K2L"
 			(pin_names
 				(offset 1.016)
 			)
@@ -15331,7 +15331,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "RT0603BRD072K2L:RESC1608X55N"
+			(property "Footprint" "WaterNet26 Library:RESC1608X55N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -15587,7 +15587,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:SI7149ADP-T1-GE3"
+		(symbol "WaterNet26 Library:SI7149ADP-T1-GE3"
 			(pin_names
 				(offset 1.016)
 			)
@@ -15612,7 +15612,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "SI7149ADP-T1-GE3:POWERPAKSO-8"
+			(property "Footprint" "WaterNet26 Library:POWERPAKSO-8"
 				(at 0 0 0)
 				(effects
 					(font
@@ -15950,7 +15950,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:SM04B-SRSS-TB"
+		(symbol "WaterNet26 Library:SM04B-SRSS-TB"
 			(pin_names
 				(offset 1.016)
 			)
@@ -15975,7 +15975,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Footprint" "SM04B-SRSS-TB:CONN_SM04B-SRSS-TB_JST"
+			(property "Footprint" "WaterNet26 Library:CONN_SM04B-SRSS-TB_JST"
 				(at 0 0 0)
 				(effects
 					(font
@@ -16381,7 +16381,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:SRP1265A-220M"
+		(symbol "WaterNet26 Library:SRP1265A-220M"
 			(pin_names
 				(offset 1.016)
 			)
@@ -16406,7 +16406,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SRP1265A-220M:IND_SRP1265A-220M"
+			(property "Footprint" "WaterNet26 Library:ND_SRP1265A-220M"
 				(at 0 0 0)
 				(effects
 					(font
@@ -16666,7 +16666,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:Solderable_100Mil_Jumper"
+		(symbol "WaterNet26 Library:Solderable_100Mil_Jumper"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -16686,7 +16686,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Solderable_100Mil_Jumper"
+			(property "Footprint" "WaterNet26 Library:Solderable_100Mil_Jumper"
 				(at 0 0 0)
 				(effects
 					(font
@@ -16803,7 +16803,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:TMP117xxDRV"
+		(symbol "WaterNet26 Library:TMP117xxDRV"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -16825,7 +16825,7 @@
 					(justify right)
 				)
 			)
-			(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+			(property "Footprint" "WaterNet26 Library:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 				(at 1.27 -8.89 0)
 				(effects
 					(font
@@ -17115,7 +17115,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:TPS922051D1DSGR"
+		(symbol "WaterNet26 Library:TPS922051D1DSGR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -17135,7 +17135,7 @@
 					)
 				)
 			)
-			(property "Footprint" "TPS922051D1DSGR:WSON8_2x2"
+			(property "Footprint" "WaterNet26 Library:WSON8_2x2"
 				(at 0 0 0)
 				(effects
 					(font
@@ -17323,7 +17323,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:TSW-108-07-F-D"
+		(symbol "WaterNet26 Library:TSW-108-07-F-D"
 			(pin_names
 				(offset 1.016)
 			)
@@ -17348,7 +17348,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "TSW-108-07-F-D:SAMTEC_TSW-108-07-F-D"
+			(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
 				(at 0 0 0)
 				(effects
 					(font
@@ -17789,7 +17789,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:USB4120-03-C_REVA6"
+		(symbol "WaterNet26 Library:USB4120-03-C_REVA6"
 			(pin_names
 				(offset 1.016)
 			)
@@ -17814,7 +17814,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "USB4120-03-C_REVA6:GCT_USB4120-03-C_REVA6"
+			(property "Footprint" "WaterNet26 Library:GCT_USB4120-03-C_REVA6"
 				(at 0 0 0)
 				(effects
 					(font
@@ -18364,7 +18364,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:VLS6045EX-150M"
+		(symbol "WaterNet26 Library:VLS6045EX-150M"
 			(pin_names
 				(offset 1.016)
 			)
@@ -18389,7 +18389,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "VLS6045EX-150M:IND_VLS6045EX-150M"
+			(property "Footprint" "WaterNet26 Library:IND_VLS6045EX-150M"
 				(at 0 0 0)
 				(effects
 					(font
@@ -18649,7 +18649,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:WE-MAPI_5030"
+		(symbol "WaterNet26 Library:WE-MAPI_5030"
 			(pin_names
 				(offset 1.016)
 			)
@@ -18674,7 +18674,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Footprint" "WE-MAPI_5030:WE-MAPI_5030"
+			(property "Footprint" "WaterNet26 Library:WE-MAPI_5030"
 				(at 0 0 0)
 				(effects
 					(font
@@ -18905,7 +18905,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "WaterNetPowerBoardLibrary:XT60-M"
+		(symbol "WaterNet26 Library:XT60-M"
 			(pin_names
 				(offset 1.016)
 			)
@@ -18930,7 +18930,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "XT60-M:AMASS_XT60-M"
+			(property "Footprint" "WaterNet26 Library:AMASS_XT60-M"
 				(at 0 0 0)
 				(effects
 					(font
@@ -35722,7 +35722,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 622.3 448.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -35747,7 +35747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 628.65 447.04 0)
 			(effects
 				(font
@@ -35924,7 +35924,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 515.62 287.02 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -35950,7 +35950,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 515.62 287.02 0)
 			(effects
 				(font
@@ -36244,7 +36244,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 574.04 76.2 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -36270,7 +36270,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 574.04 76.2 0)
 			(effects
 				(font
@@ -36564,7 +36564,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 553.72 397.51 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -36589,7 +36589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 553.72 397.51 0)
 			(effects
 				(font
@@ -36713,7 +36713,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B104KA5NNNC")
+		(lib_id "WaterNet26 Library:CL05B104KA5NNNC")
 		(at 510.54 408.94 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -36740,7 +36740,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B104KA5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 510.54 408.94 0)
 			(effects
 				(font
@@ -37110,7 +37110,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 477.52 345.44 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37136,7 +37136,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 477.52 345.44 0)
 			(effects
 				(font
@@ -37430,7 +37430,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:AP62301WU-7")
+		(lib_id "WaterNet26 Library:AP62301WU-7")
 		(at 537.21 194.31 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37455,7 +37455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AP62301WU-7:SOT95P280X100-6N"
+		(property "Footprint" "WaterNet26 Library:SOT95P280X100-6N"
 			(at 537.21 194.31 0)
 			(effects
 				(font
@@ -37651,7 +37651,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 590.55 299.72 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37677,7 +37677,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 590.55 299.72 0)
 			(effects
 				(font
@@ -38169,7 +38169,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:Solderable_100Mil_Jumper")
+		(lib_id "WaterNet26 Library:Solderable_100Mil_Jumper")
 		(at 222.25 132.08 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38194,7 +38194,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Solderable_100Mil_Jumper"
+		(property "Footprint" "WaterNet26 Library:Solderable_100Mil_Jumper"
 			(at 222.25 132.08 0)
 			(effects
 				(font
@@ -38237,7 +38237,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 565.15 76.2 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38263,7 +38263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 565.15 76.2 0)
 			(effects
 				(font
@@ -38557,7 +38557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RT0603BRD072K2L")
+		(lib_id "WaterNet26 Library:RT0603BRD072K2L")
 		(at 309.88 334.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38584,7 +38584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RT0603BRD072K2L:RESC1608X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1608X55N"
 			(at 309.88 334.01 0)
 			(effects
 				(font
@@ -38708,7 +38708,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:SM04B-SRSS-TB")
+		(lib_id "WaterNet26 Library:SM04B-SRSS-TB")
 		(at 307.34 391.16 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38735,7 +38735,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SM04B-SRSS-TB:CONN_SM04B-SRSS-TB_JST"
+		(property "Footprint" "WaterNet26 Library:CONN_SM04B-SRSS-TB_JST"
 			(at 307.34 391.16 0)
 			(effects
 				(font
@@ -39290,7 +39290,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 619.76 223.52 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -39317,7 +39317,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 619.76 223.52 0)
 			(effects
 				(font
@@ -39481,7 +39481,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B104KA5NNNC")
+		(lib_id "WaterNet26 Library:CL05B104KA5NNNC")
 		(at 510.54 505.46 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -39508,7 +39508,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B104KA5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 510.54 505.46 0)
 			(effects
 				(font
@@ -39878,7 +39878,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT5K10")
+		(lib_id "WaterNet26 Library:RMCF0603FT5K10")
 		(at 694.69 394.97 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -39905,7 +39905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT5K10:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 694.69 394.97 0)
 			(effects
 				(font
@@ -40029,7 +40029,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10C180JB81PNC")
+		(lib_id "WaterNet26 Library:CL10C180JB81PNC")
 		(at 726.44 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40056,7 +40056,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL10C180JB81PNC:CAPC1608X90N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X90N"
 			(at 726.44 262.89 0)
 			(effects
 				(font
@@ -40415,7 +40415,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ3EKF1501V")
+		(lib_id "WaterNet26 Library:ERJ3EKF1501V")
 		(at 533.4 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40440,7 +40440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1501V:RES_ERJ3EKF1501V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1501V"
 			(at 533.4 133.35 0)
 			(effects
 				(font
@@ -40604,7 +40604,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B104KA5NNNC")
+		(lib_id "WaterNet26 Library:CL05B104KA5NNNC")
 		(at 375.92 429.26 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40631,7 +40631,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B104KA5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 375.92 429.26 0)
 			(effects
 				(font
@@ -41067,7 +41067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 642.62 199.39 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -41093,7 +41093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 642.62 199.39 0)
 			(effects
 				(font
@@ -41387,7 +41387,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 273.05 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -41413,7 +41413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 273.05 106.68 0)
 			(effects
 				(font
@@ -41773,7 +41773,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:C1F-3")
+		(lib_id "WaterNet26 Library:C1F-3")
 		(at 665.48 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -41798,7 +41798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "C1F-3:FUSC3215X83N"
+		(property "Footprint" "WaterNet26 Library:FUSC3215X83N"
 			(at 665.48 189.23 0)
 			(effects
 				(font
@@ -42102,7 +42102,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 250.19 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -42127,7 +42127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 243.84 93.98 0)
 			(effects
 				(font
@@ -42567,7 +42567,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 635 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -42593,7 +42593,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 635 109.22 0)
 			(effects
 				(font
@@ -42887,7 +42887,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TPS922051D1DSGR")
+		(lib_id "WaterNet26 Library:TPS922051D1DSGR")
 		(at 427.99 514.35 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -42912,7 +42912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS922051D1DSGR:WSON8_2x2"
+		(property "Footprint" "WaterNet26 Library:WSON8_2x2"
 			(at 427.99 514.35 0)
 			(effects
 				(font
@@ -43039,7 +43039,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 200.66 179.07 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43065,7 +43065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 200.66 179.07 0)
 			(effects
 				(font
@@ -43359,7 +43359,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TSW-108-07-F-D")
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
 		(at 127 455.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43384,7 +43384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSW-108-07-F-D:SAMTEC_TSW-108-07-F-D"
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
 			(at 127 455.93 0)
 			(effects
 				(font
@@ -43580,7 +43580,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB304V")
+		(lib_id "WaterNet26 Library:ERA6AEB304V")
 		(at 496.57 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43607,7 +43607,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB304V:RES_ERA6AEB304V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB304V"
 			(at 496.57 111.76 0)
 			(effects
 				(font
@@ -43771,7 +43771,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 596.9 504.19 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43795,7 +43795,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 596.9 504.19 0)
 			(effects
 				(font
@@ -43959,7 +43959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:SI7149ADP-T1-GE3")
+		(lib_id "WaterNet26 Library:SI7149ADP-T1-GE3")
 		(at 220.98 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43984,7 +43984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SI7149ADP-T1-GE3:POWERPAKSO-8"
+		(property "Footprint" "WaterNet26 Library:POWERPAKSO-8"
 			(at 220.98 66.04 0)
 			(effects
 				(font
@@ -44189,7 +44189,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:MCP2200-I_SO")
+		(lib_id "WaterNet26 Library:MCP2200-I_SO")
 		(at 637.54 287.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -44214,7 +44214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MCP2200-I_SO:SOIC20"
+		(property "Footprint" "WaterNet26 Library:SOIC20"
 			(at 637.54 287.02 0)
 			(effects
 				(font
@@ -44554,7 +44554,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TSW-108-07-F-D")
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
 		(at 125.73 525.78 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -44579,7 +44579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSW-108-07-F-D:SAMTEC_TSW-108-07-F-D"
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
 			(at 125.73 525.78 0)
 			(effects
 				(font
@@ -44775,7 +44775,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 622.3 500.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -44800,7 +44800,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 628.65 499.11 0)
 			(effects
 				(font
@@ -44977,7 +44977,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RB070MM-30TR")
+		(lib_id "WaterNet26 Library:RB070MM-30TR")
 		(at 520.7 229.87 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45004,7 +45004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "RB070MM-30TR:DIO_RB070MM-30TR"
+		(property "Footprint" "WaterNet26 Library:DIO_RB070MM-30TR"
 			(at 520.7 229.87 0)
 			(effects
 				(font
@@ -45168,7 +45168,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TMP117xxDRV")
+		(lib_id "WaterNet26 Library:TMP117xxDRV")
 		(at 359.41 351.79 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45192,7 +45192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
+		(property "Footprint" "WaterNet26 Library:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 			(at 360.68 360.68 0)
 			(effects
 				(font
@@ -45249,7 +45249,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ2RKF1000X")
+		(lib_id "WaterNet26 Library:ERJ2RKF1000X")
 		(at 468.63 476.25 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45274,7 +45274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ2RKF1000X:RES_ERJ2RKF1000X"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ2RKF1000X"
 			(at 468.63 476.25 0)
 			(effects
 				(font
@@ -45448,7 +45448,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 208.28 295.91 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45475,7 +45475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 208.28 295.91 0)
 			(effects
 				(font
@@ -45705,7 +45705,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KCFSFNE")
+		(lib_id "WaterNet26 Library:CL21B104KCFSFNE")
 		(at 158.75 160.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45730,7 +45730,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CL21B104KCFSFNE:CAPC2012X135N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X135N"
 			(at 158.75 160.02 0)
 			(effects
 				(font
@@ -46024,7 +46024,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 373.38 121.92 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -46051,7 +46051,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 373.38 121.92 0)
 			(effects
 				(font
@@ -46215,7 +46215,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TPS922051D1DSGR")
+		(lib_id "WaterNet26 Library:TPS922051D1DSGR")
 		(at 427.99 466.09 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -46240,7 +46240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS922051D1DSGR:WSON8_2x2"
+		(property "Footprint" "WaterNet26 Library:WSON8_2x2"
 			(at 427.99 466.09 0)
 			(effects
 				(font
@@ -46301,7 +46301,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B102KB5NNNC")
+		(lib_id "WaterNet26 Library:CL05B102KB5NNNC")
 		(at 454.66 519.43 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -46328,7 +46328,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B102KB5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 454.66 519.43 0)
 			(effects
 				(font
@@ -46820,7 +46820,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 621.03 381 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -46847,7 +46847,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 621.03 381 0)
 			(effects
 				(font
@@ -46971,7 +46971,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:0680L5000-05")
+		(lib_id "WaterNet26 Library:0680L5000-05")
 		(at 660.4 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -46996,7 +46996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "0680L5000-05:FUSC6125X279N"
+		(property "Footprint" "WaterNet26 Library:FUSC6125X279N"
 			(at 660.4 99.06 0)
 			(effects
 				(font
@@ -47226,7 +47226,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ2RKF1000X")
+		(lib_id "WaterNet26 Library:ERJ2RKF1000X")
 		(at 455.93 433.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -47250,7 +47250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ2RKF1000X:RES_ERJ2RKF1000X"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ2RKF1000X"
 			(at 455.93 433.07 0)
 			(effects
 				(font
@@ -47556,7 +47556,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 276.86 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -47581,7 +47581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 276.86 116.84 0)
 			(effects
 				(font
@@ -47811,7 +47811,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL32Y106KCVZNWE")
+		(lib_id "WaterNet26 Library:CL32Y106KCVZNWE")
 		(at 158.75 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -47836,7 +47836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CL32Y106KCVZNWE:CAPC3225X280N"
+		(property "Footprint" "WaterNet26 Library:CAPC3225X280N"
 			(at 158.75 74.93 0)
 			(effects
 				(font
@@ -48196,7 +48196,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 276.86 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -48221,7 +48221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 276.86 88.9 0)
 			(effects
 				(font
@@ -48517,7 +48517,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL32Y106KCVZNWE")
+		(lib_id "WaterNet26 Library:CL32Y106KCVZNWE")
 		(at 158.75 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -48542,7 +48542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CL32Y106KCVZNWE:CAPC3225X280N"
+		(property "Footprint" "WaterNet26 Library:CAPC3225X280N"
 			(at 158.75 171.45 0)
 			(effects
 				(font
@@ -48836,7 +48836,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:WE-MAPI_5030")
+		(lib_id "WaterNet26 Library:WE-MAPI_5030")
 		(at 586.74 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -48861,7 +48861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WE-MAPI_5030:WE-MAPI_5030"
+		(property "Footprint" "WaterNet26 Library:WE-MAPI_5030"
 			(at 586.74 189.23 0)
 			(effects
 				(font
@@ -49051,7 +49051,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT5K10")
+		(lib_id "WaterNet26 Library:RMCF0603FT5K10")
 		(at 758.19 323.85 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49078,7 +49078,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT5K10:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 758.19 323.85 0)
 			(effects
 				(font
@@ -49268,7 +49268,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ2RKF1000X")
+		(lib_id "WaterNet26 Library:ERJ2RKF1000X")
 		(at 455.93 481.33 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49292,7 +49292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ2RKF1000X:RES_ERJ2RKF1000X"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ2RKF1000X"
 			(at 455.93 481.33 0)
 			(effects
 				(font
@@ -49532,7 +49532,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ2RKF1000X")
+		(lib_id "WaterNet26 Library:ERJ2RKF1000X")
 		(at 455.93 529.59 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49556,7 +49556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ2RKF1000X:RES_ERJ2RKF1000X"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ2RKF1000X"
 			(at 455.93 529.59 0)
 			(effects
 				(font
@@ -49796,7 +49796,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10C180JB81PNC")
+		(lib_id "WaterNet26 Library:CL10C180JB81PNC")
 		(at 678.18 262.89 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49823,7 +49823,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL10C180JB81PNC:CAPC1608X90N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X90N"
 			(at 678.18 262.89 0)
 			(effects
 				(font
@@ -50117,7 +50117,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 553.72 408.94 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50142,7 +50142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 553.72 408.94 0)
 			(effects
 				(font
@@ -50266,7 +50266,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 596.9 478.79 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50290,7 +50290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 596.9 478.79 0)
 			(effects
 				(font
@@ -50454,7 +50454,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 285.75 147.32 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50478,7 +50478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 285.75 147.32 0)
 			(effects
 				(font
@@ -50642,7 +50642,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 199.39 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50668,7 +50668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 199.39 77.47 0)
 			(effects
 				(font
@@ -50962,7 +50962,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21Y105KCYVPNE")
+		(lib_id "WaterNet26 Library:CL21Y105KCYVPNE")
 		(at 396.24 525.78 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50988,7 +50988,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL21Y105KCYVPNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 396.24 525.78 0)
 			(effects
 				(font
@@ -51282,7 +51282,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 297.18 372.11 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51308,7 +51308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 297.18 372.11 0)
 			(effects
 				(font
@@ -51432,7 +51432,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B102KB5NNNC")
+		(lib_id "WaterNet26 Library:CL05B102KB5NNNC")
 		(at 468.63 439.42 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51459,7 +51459,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B102KB5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 468.63 439.42 0)
 			(effects
 				(font
@@ -51753,7 +51753,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 596.9 452.12 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51777,7 +51777,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 596.9 452.12 0)
 			(effects
 				(font
@@ -52007,7 +52007,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL32Y106KCVZNWE")
+		(lib_id "WaterNet26 Library:CL32Y106KCVZNWE")
 		(at 400.05 120.65 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52033,7 +52033,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL32Y106KCVZNWE:CAPC3225X280N"
+		(property "Footprint" "WaterNet26 Library:CAPC3225X280N"
 			(at 400.05 120.65 0)
 			(effects
 				(font
@@ -52327,7 +52327,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ-8BWFR100V")
+		(lib_id "WaterNet26 Library:ERJ-8BWFR100V")
 		(at 485.14 414.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52352,7 +52352,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ-8BWFR100V:RES_ERJ-8BWFR100V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ-8BWFR100V"
 			(at 485.14 414.02 0)
 			(effects
 				(font
@@ -52371,7 +52371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 mOhms 1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"
 			(at 485.14 414.02 0)
 			(effects
 				(font
@@ -52602,7 +52602,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB304V")
+		(lib_id "WaterNet26 Library:ERA6AEB304V")
 		(at 496.57 134.62 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52629,7 +52629,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB304V:RES_ERA6AEB304V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB304V"
 			(at 496.57 134.62 0)
 			(effects
 				(font
@@ -52793,7 +52793,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CSS2725FT1L00")
+		(lib_id "WaterNet26 Library:CSS2725FT1L00")
 		(at 160.02 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52818,7 +52818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSS2725FT1L00:RESC6864X134N"
+		(property "Footprint" "WaterNet26 Library:RESC6864X134N"
 			(at 160.02 52.07 0)
 			(effects
 				(font
@@ -52942,7 +52942,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CS1213AGF160")
+		(lib_id "WaterNet26 Library:CS1213AGF160")
 		(at 226.06 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52968,7 +52968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CS1213AGF160:CS1213AGF160"
+		(property "Footprint" "WaterNet26 Library:CS1213AGF160"
 			(at 226.06 118.11 0)
 			(effects
 				(font
@@ -53209,7 +53209,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 260.35 142.24 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53234,7 +53234,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 260.35 142.24 0)
 			(effects
 				(font
@@ -53464,7 +53464,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TSW-108-07-F-D")
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
 		(at 308.61 455.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53489,7 +53489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSW-108-07-F-D:SAMTEC_TSW-108-07-F-D"
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
 			(at 308.61 455.93 0)
 			(effects
 				(font
@@ -53685,7 +53685,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 208.28 246.38 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53712,7 +53712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 208.28 246.38 0)
 			(effects
 				(font
@@ -53876,7 +53876,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 472.44 207.01 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53902,7 +53902,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 472.44 207.01 0)
 			(effects
 				(font
@@ -54196,7 +54196,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 208.28 78.74 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -54222,7 +54222,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 208.28 78.74 0)
 			(effects
 				(font
@@ -54386,7 +54386,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B102KB5NNNC")
+		(lib_id "WaterNet26 Library:CL05B102KB5NNNC")
 		(at 454.66 471.17 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -54413,7 +54413,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B102KB5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 454.66 471.17 0)
 			(effects
 				(font
@@ -54839,7 +54839,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 594.36 462.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -54865,7 +54865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 594.36 462.28 0)
 			(effects
 				(font
@@ -55159,7 +55159,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB304V")
+		(lib_id "WaterNet26 Library:ERA6AEB304V")
 		(at 250.19 303.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -55184,7 +55184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB304V:RES_ERA6AEB304V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB304V"
 			(at 250.19 303.53 0)
 			(effects
 				(font
@@ -55348,7 +55348,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 294.64 177.8 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -55374,7 +55374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 294.64 177.8 0)
 			(effects
 				(font
@@ -55734,7 +55734,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB304V")
+		(lib_id "WaterNet26 Library:ERA6AEB304V")
 		(at 505.46 96.52 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -55759,7 +55759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB304V:RES_ERA6AEB304V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB304V"
 			(at 505.46 96.52 0)
 			(effects
 				(font
@@ -55989,7 +55989,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:XT60-M")
+		(lib_id "WaterNet26 Library:XT60-M")
 		(at 741.68 444.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -56016,7 +56016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "XT60-M:AMASS_XT60-M"
+		(property "Footprint" "WaterNet26 Library:AMASS_XT60-M"
 			(at 741.68 444.5 0)
 			(effects
 				(font
@@ -56180,7 +56180,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 223.52 307.34 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -56205,7 +56205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 217.17 308.61 0)
 			(effects
 				(font
@@ -56382,7 +56382,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 377.19 335.28 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -56409,7 +56409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 377.19 335.28 0)
 			(effects
 				(font
@@ -56639,7 +56639,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 354.33 269.24 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -56666,7 +56666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 354.33 269.24 0)
 			(effects
 				(font
@@ -56830,7 +56830,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA-3AEB4990V")
+		(lib_id "WaterNet26 Library:ERA-3AEB4990V")
 		(at 599.44 134.62 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -56857,7 +56857,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA-3AEB4990V:RESC1608X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1608X55N"
 			(at 599.44 134.62 0)
 			(effects
 				(font
@@ -56981,7 +56981,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 287.02 372.11 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -57007,7 +57007,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 287.02 372.11 0)
 			(effects
 				(font
@@ -57131,7 +57131,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B102KB5NNNC")
+		(lib_id "WaterNet26 Library:CL05B102KB5NNNC")
 		(at 468.63 487.68 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -57158,7 +57158,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B102KB5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 468.63 487.68 0)
 			(effects
 				(font
@@ -57452,7 +57452,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B104KA5NNNC")
+		(lib_id "WaterNet26 Library:CL05B104KA5NNNC")
 		(at 375.92 525.78 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -57479,7 +57479,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B104KA5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 375.92 525.78 0)
 			(effects
 				(font
@@ -57915,7 +57915,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CSS2725FT1L00")
+		(lib_id "WaterNet26 Library:CSS2725FT1L00")
 		(at 160.02 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -57940,7 +57940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSS2725FT1L00:RESC6864X134N"
+		(property "Footprint" "WaterNet26 Library:RESC6864X134N"
 			(at 160.02 39.37 0)
 			(effects
 				(font
@@ -58064,7 +58064,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ3EKF1000V")
+		(lib_id "WaterNet26 Library:ERJ3EKF1000V")
 		(at 652.78 490.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -58089,7 +58089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1000V:RES_ERJ3EKF1000V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1000V"
 			(at 652.78 490.22 0)
 			(effects
 				(font
@@ -58319,7 +58319,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 480.06 269.24 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -58346,7 +58346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 480.06 269.24 0)
 			(effects
 				(font
@@ -58642,7 +58642,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ3EKF1000V")
+		(lib_id "WaterNet26 Library:ERJ3EKF1000V")
 		(at 652.78 469.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -58667,7 +58667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1000V:RES_ERJ3EKF1000V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1000V"
 			(at 652.78 469.9 0)
 			(effects
 				(font
@@ -58897,7 +58897,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 306.07 177.8 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -58923,7 +58923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 306.07 177.8 0)
 			(effects
 				(font
@@ -59349,7 +59349,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:SM04B-SRSS-TB")
+		(lib_id "WaterNet26 Library:SM04B-SRSS-TB")
 		(at 278.13 391.16 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -59376,7 +59376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SM04B-SRSS-TB:CONN_SM04B-SRSS-TB_JST"
+		(property "Footprint" "WaterNet26 Library:CONN_SM04B-SRSS-TB_JST"
 			(at 278.13 391.16 0)
 			(effects
 				(font
@@ -59536,7 +59536,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 309.88 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -59561,7 +59561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 316.23 142.24 0)
 			(effects
 				(font
@@ -59936,7 +59936,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KCFSFNE")
+		(lib_id "WaterNet26 Library:CL21B104KCFSFNE")
 		(at 158.75 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -59961,7 +59961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CL21B104KCFSFNE:CAPC2012X135N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X135N"
 			(at 158.75 63.5 0)
 			(effects
 				(font
@@ -60387,7 +60387,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:C3216X5R1E476M160AC")
+		(lib_id "WaterNet26 Library:C3216X5R1E476M160AC")
 		(at 631.19 199.39 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -60413,7 +60413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C3216X5R1E476M160AC:CAPC3216X180N"
+		(property "Footprint" "WaterNet26 Library:CAPC3216X180N"
 			(at 631.19 199.39 0)
 			(effects
 				(font
@@ -60537,7 +60537,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 485.14 207.01 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -60563,7 +60563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 485.14 207.01 0)
 			(effects
 				(font
@@ -61055,7 +61055,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:XT60-M")
+		(lib_id "WaterNet26 Library:XT60-M")
 		(at 115.57 146.05 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -61080,7 +61080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XT60-M:AMASS_XT60-M"
+		(property "Footprint" "WaterNet26 Library:AMASS_XT60-M"
 			(at 115.57 146.05 0)
 			(effects
 				(font
@@ -61376,7 +61376,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B104KA5NNNC")
+		(lib_id "WaterNet26 Library:CL05B104KA5NNNC")
 		(at 510.54 457.2 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -61403,7 +61403,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B104KA5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 510.54 457.2 0)
 			(effects
 				(font
@@ -61707,7 +61707,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:USB4120-03-C_REVA6")
+		(lib_id "WaterNet26 Library:USB4120-03-C_REVA6")
 		(at 728.98 308.61 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -61732,7 +61732,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB4120-03-C_REVA6:GCT_USB4120-03-C_REVA6"
+		(property "Footprint" "WaterNet26 Library:GCT_USB4120-03-C_REVA6"
 			(at 728.98 308.61 0)
 			(effects
 				(font
@@ -61970,7 +61970,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:PTS810_SJM_250_SMTR_LFS")
+		(lib_id "WaterNet26 Library:PTS810_SJM_250_SMTR_LFS")
 		(at 477.52 292.1 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -61995,7 +61995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PTS810_SJM_250_SMTR_LFS:SW_PTS810_SJM_250_SMTR_LFS"
+		(property "Footprint" "WaterNet26 Library:SW_PTS810_SJM_250_SMTR_LFS"
 			(at 477.52 292.1 0)
 			(effects
 				(font
@@ -62145,7 +62145,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21Y105KCYVPNE")
+		(lib_id "WaterNet26 Library:CL21Y105KCYVPNE")
 		(at 554.99 76.2 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -62171,7 +62171,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21Y105KCYVPNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 554.99 76.2 0)
 			(effects
 				(font
@@ -62531,7 +62531,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ-8BWFR100V")
+		(lib_id "WaterNet26 Library:ERJ-8BWFR100V")
 		(at 485.14 510.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -62556,7 +62556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ-8BWFR100V:RES_ERJ-8BWFR100V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ-8BWFR100V"
 			(at 485.14 510.54 0)
 			(effects
 				(font
@@ -62575,7 +62575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 mOhms 1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"
 			(at 485.14 510.54 0)
 			(effects
 				(font
@@ -62806,7 +62806,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10A106MA8NRNC")
+		(lib_id "WaterNet26 Library:CL10A106MA8NRNC")
 		(at 363.22 525.78 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -62833,7 +62833,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL10A106MA8NRNC:CAPC1608X100N"
+		(property "Footprint" "WaterNet26 Library:APC1608X100N"
 			(at 363.22 525.78 0)
 			(effects
 				(font
@@ -63137,7 +63137,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ3EKF1000V")
+		(lib_id "WaterNet26 Library:ERJ3EKF1000V")
 		(at 652.78 480.06 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -63162,7 +63162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1000V:RES_ERJ3EKF1000V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1000V"
 			(at 652.78 480.06 0)
 			(effects
 				(font
@@ -63656,7 +63656,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 491.49 269.24 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -63683,7 +63683,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 491.49 269.24 0)
 			(effects
 				(font
@@ -63847,7 +63847,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:470531000")
+		(lib_id "WaterNet26 Library:470531000")
 		(at 643.89 398.78 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -64100,7 +64100,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10A106MA8NRNC")
+		(lib_id "WaterNet26 Library:CL10A106MA8NRNC")
 		(at 497.84 505.46 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -64127,7 +64127,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL10A106MA8NRNC:CAPC1608X100N"
+		(property "Footprint" "WaterNet26 Library:APC1608X100N"
 			(at 497.84 505.46 0)
 			(effects
 				(font
@@ -64431,7 +64431,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RB070MM-30TR")
+		(lib_id "WaterNet26 Library:RB070MM-30TR")
 		(at 520.7 237.49 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -64458,7 +64458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "RB070MM-30TR:DIO_RB070MM-30TR"
+		(property "Footprint" "WaterNet26 Library:DIO_RB070MM-30TR"
 			(at 520.7 237.49 0)
 			(effects
 				(font
@@ -64622,7 +64622,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 248.92 293.37 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -64648,7 +64648,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 248.92 293.37 0)
 			(effects
 				(font
@@ -64942,7 +64942,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ESP32-S3-WROOM-1")
+		(lib_id "WaterNet26 Library:ESP32-S3-WROOM-1")
 		(at 527.05 327.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -64969,7 +64969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-S3-WROOM-1"
+		(property "Footprint" "WaterNet26 Library:ESP32-S3-WROOM-1"
 			(at 527.05 325.12 0)
 			(effects
 				(font
@@ -65129,7 +65129,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CSS2725FT1L00")
+		(lib_id "WaterNet26 Library:CSS2725FT1L00")
 		(at 160.02 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -65154,7 +65154,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSS2725FT1L00:RESC6864X134N"
+		(property "Footprint" "WaterNet26 Library:RESC6864X134N"
 			(at 160.02 148.59 0)
 			(effects
 				(font
@@ -65278,7 +65278,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 257.81 372.11 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -65304,7 +65304,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 257.81 372.11 0)
 			(effects
 				(font
@@ -65560,7 +65560,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KCFSFNE")
+		(lib_id "WaterNet26 Library:CL21B104KCFSFNE")
 		(at 387.35 123.19 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -65586,7 +65586,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL21B104KCFSFNE:CAPC2012X135N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X135N"
 			(at 387.35 123.19 0)
 			(effects
 				(font
@@ -65880,7 +65880,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 267.97 372.11 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -65906,7 +65906,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 267.97 372.11 0)
 			(effects
 				(font
@@ -66030,7 +66030,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 276.86 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -66056,7 +66056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 276.86 180.34 0)
 			(effects
 				(font
@@ -66614,7 +66614,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:INA4181A3IPWR")
+		(lib_id "WaterNet26 Library:INA4181A3IPWR")
 		(at 410.21 232.41 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -66639,7 +66639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "INA4181A3IPWR:SOP65P640X120-20N"
+		(property "Footprint" "WaterNet26 Library:SOP65P640X120-20N"
 			(at 410.21 232.41 0)
 			(effects
 				(font
@@ -66821,7 +66821,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CLMVC-FKA-CL1D1L71BB7C3C3")
+		(lib_id "WaterNet26 Library:CLMVC-FKA-CL1D1L71BB7C3C3")
 		(at 673.1 480.06 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -66847,7 +66847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CLMVC-FKA-CL1D1L71BB7C3C3:LED_CLMVC-FKA-CL1D1L71BB7C3C3"
+		(property "Footprint" "WaterNet26 Library:LED_CLMVC-FKA-CL1D1L71BB7C3C3"
 			(at 673.1 480.06 0)
 			(effects
 				(font
@@ -67149,7 +67149,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 251.46 194.31 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -67174,7 +67174,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 245.11 195.58 0)
 			(effects
 				(font
@@ -67483,7 +67483,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CSNL1206FT1L00")
+		(lib_id "WaterNet26 Library:CSNL1206FT1L00")
 		(at 449.58 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -67508,7 +67508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSNL1206FT1L00:RESC3216X90N"
+		(property "Footprint" "WaterNet26 Library:RESC3216X90N"
 			(at 449.58 101.6 0)
 			(effects
 				(font
@@ -67708,7 +67708,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10A106MA8NRNC")
+		(lib_id "WaterNet26 Library:CL10A106MA8NRNC")
 		(at 363.22 477.52 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -67735,7 +67735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL10A106MA8NRNC:CAPC1608X100N"
+		(property "Footprint" "WaterNet26 Library:APC1608X100N"
 			(at 363.22 477.52 0)
 			(effects
 				(font
@@ -68039,7 +68039,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 342.9 267.97 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -68065,7 +68065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 342.9 267.97 0)
 			(effects
 				(font
@@ -68359,7 +68359,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 422.91 349.25 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -68386,7 +68386,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 422.91 349.25 0)
 			(effects
 				(font
@@ -68550,7 +68550,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 635 381 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -68577,7 +68577,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 635 381 0)
 			(effects
 				(font
@@ -68701,7 +68701,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 250.19 120.65 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -68726,7 +68726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 243.84 121.92 0)
 			(effects
 				(font
@@ -68903,7 +68903,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 645.16 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -68929,7 +68929,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 645.16 109.22 0)
 			(effects
 				(font
@@ -69223,7 +69223,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 558.8 189.23 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -69249,7 +69249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 558.8 189.23 0)
 			(effects
 				(font
@@ -69543,7 +69543,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 227.33 93.98 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -69569,7 +69569,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 227.33 93.98 0)
 			(effects
 				(font
@@ -69799,7 +69799,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:XT60-M")
+		(lib_id "WaterNet26 Library:XT60-M")
 		(at 741.68 518.16 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -69826,7 +69826,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "XT60-M:AMASS_XT60-M"
+		(property "Footprint" "WaterNet26 Library:AMASS_XT60-M"
 			(at 741.68 518.16 0)
 			(effects
 				(font
@@ -69990,7 +69990,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB304V")
+		(lib_id "WaterNet26 Library:ERA6AEB304V")
 		(at 250.19 254 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -70015,7 +70015,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB304V:RES_ERA6AEB304V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB304V"
 			(at 250.19 254 0)
 			(effects
 				(font
@@ -70179,7 +70179,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10B103KB8NNNC")
+		(lib_id "WaterNet26 Library:CL10B103KB8NNNC")
 		(at 610.87 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -70206,7 +70206,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL10B103KB8NNNC:CAPC1608X90N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X90N"
 			(at 610.87 109.22 0)
 			(effects
 				(font
@@ -70500,7 +70500,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 594.36 514.35 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -70526,7 +70526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 594.36 514.35 0)
 			(effects
 				(font
@@ -70820,7 +70820,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 349.25 328.93 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -70846,7 +70846,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 349.25 328.93 0)
 			(effects
 				(font
@@ -71140,7 +71140,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:SRP1265A-220M")
+		(lib_id "WaterNet26 Library:SRP1265A-220M")
 		(at 580.39 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -71165,7 +71165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SRP1265A-220M:IND_SRP1265A-220M"
+		(property "Footprint" "WaterNet26 Library:ND_SRP1265A-220M"
 			(at 580.39 99.06 0)
 			(effects
 				(font
@@ -71329,7 +71329,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:350761-4")
+		(lib_id "WaterNet26 Library:350761-4")
 		(at 551.18 546.1 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -71356,7 +71356,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "350761-4:TE_350761-4"
+		(property "Footprint" "WaterNet26 Library:TE_350761-4"
 			(at 551.18 546.1 0)
 			(effects
 				(font
@@ -71536,7 +71536,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21Y105KCYVPNE")
+		(lib_id "WaterNet26 Library:CL21Y105KCYVPNE")
 		(at 396.24 477.52 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -71562,7 +71562,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL21Y105KCYVPNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 396.24 477.52 0)
 			(effects
 				(font
@@ -71856,7 +71856,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:USB4120-03-C_REVA6")
+		(lib_id "WaterNet26 Library:USB4120-03-C_REVA6")
 		(at 727.71 379.73 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -71881,7 +71881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB4120-03-C_REVA6:GCT_USB4120-03-C_REVA6"
+		(property "Footprint" "WaterNet26 Library:GCT_USB4120-03-C_REVA6"
 			(at 727.71 379.73 0)
 			(effects
 				(font
@@ -72251,7 +72251,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 577.85 299.72 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -72277,7 +72277,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 577.85 299.72 0)
 			(effects
 				(font
@@ -72571,7 +72571,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10B103KB8NNNC")
+		(lib_id "WaterNet26 Library:CL10B103KB8NNNC")
 		(at 513.08 137.16 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -72598,7 +72598,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL10B103KB8NNNC:CAPC1608X90N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X90N"
 			(at 513.08 137.16 0)
 			(effects
 				(font
@@ -72892,7 +72892,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:VLS6045EX-150M")
+		(lib_id "WaterNet26 Library:VLS6045EX-150M")
 		(at 458.47 462.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -72917,7 +72917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VLS6045EX-150M:IND_VLS6045EX-150M"
+		(property "Footprint" "WaterNet26 Library:IND_VLS6045EX-150M"
 			(at 458.47 462.28 0)
 			(effects
 				(font
@@ -73081,7 +73081,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:MIC28514T-E_PHA")
+		(lib_id "WaterNet26 Library:MIC28514T-E_PHA")
 		(at 533.4 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -73106,7 +73106,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MIC28514T-E_PHA:CONV_MIC28514T-E_PHA"
+		(property "Footprint" "WaterNet26 Library:CONV_MIC28514T-E_PHA"
 			(at 533.4 104.14 0)
 			(effects
 				(font
@@ -73424,7 +73424,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 443.23 345.44 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -73450,7 +73450,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 443.23 345.44 0)
 			(effects
 				(font
@@ -73810,7 +73810,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ECS-120-12-33-AGN-TR")
+		(lib_id "WaterNet26 Library:ECS-120-12-33-AGN-TR")
 		(at 701.04 259.08 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -73835,7 +73835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECS-120-12-33-AGN-TR:XTAL_ECS-120-12-33-AGN-TR"
+		(property "Footprint" "WaterNet26 Library:XTAL_ECS-120-12-33-AGN-TR"
 			(at 701.04 259.08 0)
 			(effects
 				(font
@@ -73854,7 +73854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "The sub miniature ECX-32 is a compact SMD Crystal."
 			(at 701.04 259.08 0)
 			(effects
 				(font
@@ -74147,7 +74147,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 322.58 129.54 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -74174,7 +74174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 322.58 129.54 0)
 			(effects
 				(font
@@ -74338,7 +74338,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 622.3 474.98 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -74363,7 +74363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 628.65 473.71 0)
 			(effects
 				(font
@@ -74540,7 +74540,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CSNL1206FT1L00")
+		(lib_id "WaterNet26 Library:CSNL1206FT1L00")
 		(at 449.58 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -74565,7 +74565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSNL1206FT1L00:RESC3216X90N"
+		(property "Footprint" "WaterNet26 Library:RESC3216X90N"
 			(at 449.58 69.85 0)
 			(effects
 				(font
@@ -74765,7 +74765,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 454.66 345.44 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -74791,7 +74791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 454.66 345.44 0)
 			(effects
 				(font
@@ -75283,7 +75283,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:XT60-M")
+		(lib_id "WaterNet26 Library:XT60-M")
 		(at 741.68 482.6 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -75310,7 +75310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "XT60-M:AMASS_XT60-M"
+		(property "Footprint" "WaterNet26 Library:AMASS_XT60-M"
 			(at 741.68 482.6 0)
 			(effects
 				(font
@@ -75606,7 +75606,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 278.13 190.5 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -75631,7 +75631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 278.13 190.5 0)
 			(effects
 				(font
@@ -75795,7 +75795,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10A106MA8NRNC")
+		(lib_id "WaterNet26 Library:CL10A106MA8NRNC")
 		(at 497.84 408.94 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -75822,7 +75822,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL10A106MA8NRNC:CAPC1608X100N"
+		(property "Footprint" "WaterNet26 Library:APC1608X100N"
 			(at 497.84 408.94 0)
 			(effects
 				(font
@@ -76192,7 +76192,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB304V")
+		(lib_id "WaterNet26 Library:ERA6AEB304V")
 		(at 373.38 97.79 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -76219,7 +76219,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB304V:RES_ERA6AEB304V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB304V"
 			(at 373.38 97.79 0)
 			(effects
 				(font
@@ -76383,7 +76383,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TSW-108-07-F-D")
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
 		(at 224.79 528.32 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -76408,7 +76408,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSW-108-07-F-D:SAMTEC_TSW-108-07-F-D"
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
 			(at 224.79 528.32 0)
 			(effects
 				(font
@@ -76604,7 +76604,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 594.36 488.95 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -76630,7 +76630,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 594.36 488.95 0)
 			(effects
 				(font
@@ -76924,7 +76924,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:XT60-M")
+		(lib_id "WaterNet26 Library:XT60-M")
 		(at 115.57 36.83 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -76949,7 +76949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XT60-M:AMASS_XT60-M"
+		(property "Footprint" "WaterNet26 Library:AMASS_XT60-M"
 			(at 115.57 36.83 0)
 			(effects
 				(font
@@ -77113,7 +77113,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0805FT2R00")
+		(lib_id "WaterNet26 Library:RMCF0805FT2R00")
 		(at 533.4 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -77138,7 +77138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RMCF0805FT2R00:RESC2012X65N"
+		(property "Footprint" "WaterNet26 Library:RESC2012X65N"
 			(at 533.4 69.85 0)
 			(effects
 				(font
@@ -77262,7 +77262,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 354.33 245.11 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -77289,7 +77289,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 354.33 245.11 0)
 			(effects
 				(font
@@ -77585,7 +77585,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT5K10")
+		(lib_id "WaterNet26 Library:RMCF0603FT5K10")
 		(at 695.96 323.85 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -77612,7 +77612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT5K10:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 695.96 323.85 0)
 			(effects
 				(font
@@ -77868,7 +77868,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KCFSFNE")
+		(lib_id "WaterNet26 Library:CL21B104KCFSFNE")
 		(at 590.55 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -77894,7 +77894,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL21B104KCFSFNE:CAPC2012X135N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X135N"
 			(at 590.55 118.11 0)
 			(effects
 				(font
@@ -78188,7 +78188,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10A106MA8NRNC")
+		(lib_id "WaterNet26 Library:CL10A106MA8NRNC")
 		(at 363.22 429.26 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -78215,7 +78215,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL10A106MA8NRNC:CAPC1608X100N"
+		(property "Footprint" "WaterNet26 Library:APC1608X100N"
 			(at 363.22 429.26 0)
 			(effects
 				(font
@@ -78519,7 +78519,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:BSS123-7-F")
+		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 223.52 257.81 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -78544,7 +78544,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BSS123-7-F:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 217.17 259.08 0)
 			(effects
 				(font
@@ -78787,7 +78787,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 227.33 106.68 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -78813,7 +78813,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 227.33 106.68 0)
 			(effects
 				(font
@@ -78977,7 +78977,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 642.62 356.87 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -79004,7 +79004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 642.62 356.87 0)
 			(effects
 				(font
@@ -79168,7 +79168,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TSW-108-07-F-D")
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
 		(at 224.79 455.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -79193,7 +79193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSW-108-07-F-D:SAMTEC_TSW-108-07-F-D"
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
 			(at 224.79 455.93 0)
 			(effects
 				(font
@@ -79389,7 +79389,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 336.55 328.93 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -79415,7 +79415,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 336.55 328.93 0)
 			(effects
 				(font
@@ -79841,7 +79841,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RT0603BRD072K2L")
+		(lib_id "WaterNet26 Library:RT0603BRD072K2L")
 		(at 322.58 334.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -79868,7 +79868,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RT0603BRD072K2L:RESC1608X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1608X55N"
 			(at 322.58 334.01 0)
 			(effects
 				(font
@@ -80058,7 +80058,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 596.9 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -80084,7 +80084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 596.9 77.47 0)
 			(effects
 				(font
@@ -80444,7 +80444,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B104KA5NNNC")
+		(lib_id "WaterNet26 Library:CL05B104KA5NNNC")
 		(at 375.92 477.52 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -80471,7 +80471,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B104KA5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 375.92 477.52 0)
 			(effects
 				(font
@@ -80775,7 +80775,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TPS922051D1DSGR")
+		(lib_id "WaterNet26 Library:TPS922051D1DSGR")
 		(at 427.99 417.83 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -80800,7 +80800,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS922051D1DSGR:WSON8_2x2"
+		(property "Footprint" "WaterNet26 Library:WSON8_2x2"
 			(at 427.99 417.83 0)
 			(effects
 				(font
@@ -80861,7 +80861,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:TSW-108-07-F-D")
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
 		(at 308.61 529.59 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -80886,7 +80886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSW-108-07-F-D:SAMTEC_TSW-108-07-F-D"
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
 			(at 308.61 529.59 0)
 			(effects
 				(font
@@ -81082,7 +81082,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 652.78 199.39 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -81108,7 +81108,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 652.78 199.39 0)
 			(effects
 				(font
@@ -81402,7 +81402,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0805FT2R00")
+		(lib_id "WaterNet26 Library:RMCF0805FT2R00")
 		(at 585.47 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -81426,7 +81426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RMCF0805FT2R00:RESC2012X65N"
+		(property "Footprint" "WaterNet26 Library:RESC2012X65N"
 			(at 585.47 69.85 0)
 			(effects
 				(font
@@ -81550,7 +81550,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 374.65 250.19 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -81576,7 +81576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 374.65 250.19 0)
 			(effects
 				(font
@@ -82068,7 +82068,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10B103KB8NNNC")
+		(lib_id "WaterNet26 Library:CL10B103KB8NNNC")
 		(at 607.06 199.39 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -82094,7 +82094,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL10B103KB8NNNC:CAPC1608X90N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X90N"
 			(at 607.06 199.39 0)
 			(effects
 				(font
@@ -82520,7 +82520,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 248.92 243.84 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -82546,7 +82546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 248.92 243.84 0)
 			(effects
 				(font
@@ -82840,7 +82840,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 579.12 107.95 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -82866,7 +82866,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 579.12 107.95 0)
 			(effects
 				(font
@@ -83030,7 +83030,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 466.09 345.44 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -83056,7 +83056,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 466.09 345.44 0)
 			(effects
 				(font
@@ -83350,7 +83350,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ2RKF1000X")
+		(lib_id "WaterNet26 Library:ERJ2RKF1000X")
 		(at 468.63 524.51 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -83375,7 +83375,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ2RKF1000X:RES_ERJ2RKF1000X"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ2RKF1000X"
 			(at 468.63 524.51 0)
 			(effects
 				(font
@@ -83615,7 +83615,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ2RKF1000X")
+		(lib_id "WaterNet26 Library:ERJ2RKF1000X")
 		(at 468.63 427.99 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -83640,7 +83640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ2RKF1000X:RES_ERJ2RKF1000X"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ2RKF1000X"
 			(at 468.63 427.99 0)
 			(effects
 				(font
@@ -83880,7 +83880,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:Solderable_100Mil_Jumper")
+		(lib_id "WaterNet26 Library:Solderable_100Mil_Jumper")
 		(at 716.28 443.23 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -83905,7 +83905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Solderable_100Mil_Jumper"
+		(property "Footprint" "WaterNet26 Library:Solderable_100Mil_Jumper"
 			(at 716.28 443.23 0)
 			(effects
 				(font
@@ -83948,7 +83948,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B102KB5NNNC")
+		(lib_id "WaterNet26 Library:CL05B102KB5NNNC")
 		(at 454.66 422.91 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -83975,7 +83975,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B102KB5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 454.66 422.91 0)
 			(effects
 				(font
@@ -84335,7 +84335,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 209.55 180.34 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -84361,7 +84361,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 209.55 180.34 0)
 			(effects
 				(font
@@ -84591,7 +84591,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL10A106MA8NRNC")
+		(lib_id "WaterNet26 Library:CL10A106MA8NRNC")
 		(at 497.84 457.2 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -84618,7 +84618,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL10A106MA8NRNC:CAPC1608X100N"
+		(property "Footprint" "WaterNet26 Library:APC1608X100N"
 			(at 497.84 457.2 0)
 			(effects
 				(font
@@ -85054,7 +85054,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL32Y106KCVZNWE")
+		(lib_id "WaterNet26 Library:CL32Y106KCVZNWE")
 		(at 485.14 130.81 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -85080,7 +85080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL32Y106KCVZNWE:CAPC3225X280N"
+		(property "Footprint" "WaterNet26 Library:CAPC3225X280N"
 			(at 485.14 130.81 0)
 			(effects
 				(font
@@ -85374,7 +85374,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:VLS6045EX-150M")
+		(lib_id "WaterNet26 Library:VLS6045EX-150M")
 		(at 458.47 510.54 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -85399,7 +85399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VLS6045EX-150M:IND_VLS6045EX-150M"
+		(property "Footprint" "WaterNet26 Library:IND_VLS6045EX-150M"
 			(at 458.47 510.54 0)
 			(effects
 				(font
@@ -85695,7 +85695,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KCFSFNE")
+		(lib_id "WaterNet26 Library:CL21B104KCFSFNE")
 		(at 556.26 106.68 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -85721,7 +85721,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL21B104KCFSFNE:CAPC2012X135N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X135N"
 			(at 556.26 106.68 0)
 			(effects
 				(font
@@ -86015,7 +86015,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB104V")
+		(lib_id "WaterNet26 Library:ERA6AEB104V")
 		(at 502.92 196.85 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -86040,7 +86040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB104V:RES_ERA6AEB104V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB104V"
 			(at 502.92 196.85 0)
 			(effects
 				(font
@@ -86204,7 +86204,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERJ-8BWFR100V")
+		(lib_id "WaterNet26 Library:ERJ-8BWFR100V")
 		(at 485.14 462.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -86229,7 +86229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ-8BWFR100V:RES_ERJ-8BWFR100V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ-8BWFR100V"
 			(at 485.14 462.28 0)
 			(effects
 				(font
@@ -86248,7 +86248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100 mOhms 1% 1W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Current Sense Thick Film"
 			(at 485.14 462.28 0)
 			(effects
 				(font
@@ -86413,7 +86413,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:Solderable_100Mil_Jumper")
+		(lib_id "WaterNet26 Library:Solderable_100Mil_Jumper")
 		(at 716.28 481.33 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -86438,7 +86438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Solderable_100Mil_Jumper"
+		(property "Footprint" "WaterNet26 Library:Solderable_100Mil_Jumper"
 			(at 716.28 481.33 0)
 			(effects
 				(font
@@ -86481,7 +86481,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:C3216X5R1E476M160AC")
+		(lib_id "WaterNet26 Library:C3216X5R1E476M160AC")
 		(at 623.57 109.22 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -86507,7 +86507,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "C3216X5R1E476M160AC:CAPC3216X180N"
+		(property "Footprint" "WaterNet26 Library:CAPC3216X180N"
 			(at 623.57 109.22 0)
 			(effects
 				(font
@@ -86697,7 +86697,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 604.52 271.78 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -86722,7 +86722,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 604.52 271.78 0)
 			(effects
 				(font
@@ -86952,7 +86952,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 387.35 250.19 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -86978,7 +86978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 387.35 250.19 0)
 			(effects
 				(font
@@ -87272,7 +87272,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 599.44 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -87298,7 +87298,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 599.44 111.76 0)
 			(effects
 				(font
@@ -87594,7 +87594,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT5K10")
+		(lib_id "WaterNet26 Library:RMCF0603FT5K10")
 		(at 756.92 394.97 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -87621,7 +87621,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "RMCF0603FT5K10:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 756.92 394.97 0)
 			(effects
 				(font
@@ -87745,7 +87745,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21Y105KCYVPNE")
+		(lib_id "WaterNet26 Library:CL21Y105KCYVPNE")
 		(at 396.24 429.26 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -87771,7 +87771,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL21Y105KCYVPNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 396.24 429.26 0)
 			(effects
 				(font
@@ -88065,7 +88065,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:RMCF0603FT10R0")
+		(lib_id "WaterNet26 Library:RMCF0603FT10R0")
 		(at 553.72 386.08 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -88090,7 +88090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RMCF0603FT10R0:RESC1508X55N"
+		(property "Footprint" "WaterNet26 Library:RESC1508X55N"
 			(at 553.72 386.08 0)
 			(effects
 				(font
@@ -88214,7 +88214,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL05B102KB5NNNC")
+		(lib_id "WaterNet26 Library:CL05B102KB5NNNC")
 		(at 468.63 535.94 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -88241,7 +88241,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL05B102KB5NNNC:CAPC1005X55N"
+		(property "Footprint" "WaterNet26 Library:CAPC1005X55N"
 			(at 468.63 535.94 0)
 			(effects
 				(font
@@ -88865,7 +88865,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KCFSFNE")
+		(lib_id "WaterNet26 Library:CL21B104KCFSFNE")
 		(at 473.71 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -88891,7 +88891,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CL21B104KCFSFNE:CAPC2012X135N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X135N"
 			(at 473.71 133.35 0)
 			(effects
 				(font
@@ -89317,7 +89317,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 203.2 105.41 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -89343,7 +89343,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 203.2 105.41 0)
 			(effects
 				(font
@@ -89507,7 +89507,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21A106KAYNNNE")
+		(lib_id "WaterNet26 Library:CL21A106KAYNNNE")
 		(at 605.79 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -89533,7 +89533,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21A106KAYNNNE:CAPC2012X145N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X145N"
 			(at 605.79 77.47 0)
 			(effects
 				(font
@@ -89959,7 +89959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:SI7149ADP-T1-GE3")
+		(lib_id "WaterNet26 Library:SI7149ADP-T1-GE3")
 		(at 222.25 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -89984,7 +89984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SI7149ADP-T1-GE3:POWERPAKSO-8"
+		(property "Footprint" "WaterNet26 Library:POWERPAKSO-8"
 			(at 222.25 167.64 0)
 			(effects
 				(font
@@ -90189,7 +90189,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 502.92 287.02 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -90215,7 +90215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 502.92 287.02 0)
 			(effects
 				(font
@@ -90773,7 +90773,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:B2B-PH-K-S")
+		(lib_id "WaterNet26 Library:B2B-PH-K-S")
 		(at 196.85 144.78 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -90798,7 +90798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "B2B-PH-K-S:JST_B2B-PH-K-S"
+		(property "Footprint" "WaterNet26 Library:JST_B2B-PH-K-S"
 			(at 196.85 144.78 0)
 			(effects
 				(font
@@ -91064,7 +91064,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:PTS810_SJM_250_SMTR_LFS")
+		(lib_id "WaterNet26 Library:PTS810_SJM_250_SMTR_LFS")
 		(at 477.52 304.8 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -91089,7 +91089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PTS810_SJM_250_SMTR_LFS:SW_PTS810_SJM_250_SMTR_LFS"
+		(property "Footprint" "WaterNet26 Library:SW_PTS810_SJM_250_SMTR_LFS"
 			(at 477.52 304.8 0)
 			(effects
 				(font
@@ -91371,7 +91371,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 283.21 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -91397,7 +91397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 283.21 157.48 0)
 			(effects
 				(font
@@ -91823,7 +91823,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB3162V")
+		(lib_id "WaterNet26 Library:ERA6AEB3162V")
 		(at 619.76 200.66 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -91850,7 +91850,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB3162V:RES_ERA6AEB3162V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB3162V"
 			(at 619.76 200.66 0)
 			(effects
 				(font
@@ -92024,7 +92024,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:VLS6045EX-150M")
+		(lib_id "WaterNet26 Library:VLS6045EX-150M")
 		(at 458.47 414.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -92049,7 +92049,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VLS6045EX-150M:IND_VLS6045EX-150M"
+		(property "Footprint" "WaterNet26 Library:IND_VLS6045EX-150M"
 			(at 458.47 414.02 0)
 			(effects
 				(font
@@ -92213,7 +92213,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:CL21B104KACNNNC")
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
 		(at 275.59 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -92239,7 +92239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CL21B104KACNNNC:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 275.59 78.74 0)
 			(effects
 				(font
@@ -92533,7 +92533,7 @@
 		)
 	)
 	(symbol
-		(lib_id "WaterNetPowerBoardLibrary:ERA6AEB103V")
+		(lib_id "WaterNet26 Library:ERA6AEB103V")
 		(at 229.87 195.58 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -92559,7 +92559,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ERA6AEB103V:RES_ERA6AEB103V"
+		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB103V"
 			(at 229.87 195.58 0)
 			(effects
 				(font
