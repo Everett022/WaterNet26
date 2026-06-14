@@ -226,7 +226,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|2082800|304800|e7751b3c-bab4-4852-9e34-3dff54e6b8e3|00000000-0000-0000-0000-000000000000|/eb5c9a01-7492-4365-9d3b-8013a577dbf7|/eb5c9a01-7492-4365-9d3b-8013a577dbf7|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -558,6 +563,24 @@
         },
         {
           "group_by": false,
+          "label": "A_max",
+          "name": "A_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "A_min",
+          "name": "A_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "A_nom",
+          "name": "A_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Availability",
           "name": "Availability",
           "show": false
@@ -570,8 +593,80 @@
         },
         {
           "group_by": false,
+          "label": "D_max",
+          "name": "D_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "D_min",
+          "name": "D_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "D_nom",
+          "name": "D_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Description_1",
           "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_max",
+          "name": "E_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_min",
+          "name": "E_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_nom",
+          "name": "E_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L1_max",
+          "name": "L1_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L1_min",
+          "name": "L1_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L1_nom",
+          "name": "L1_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_max",
+          "name": "L_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_min",
+          "name": "L_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_nom",
+          "name": "L_nom",
           "show": false
         },
         {
@@ -597,6 +692,30 @@
           "label": "MP",
           "name": "MP",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_FARNELL",
+          "name": "OC_FARNELL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_NEWARK",
+          "name": "OC_NEWARK",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE",
+          "name": "PACKAGE",
+          "show": false
         },
         {
           "group_by": false,
@@ -638,6 +757,12 @@
           "group_by": false,
           "label": "STANDARD",
           "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER",
+          "name": "SUPPLIER",
           "show": false
         },
         {
@@ -718,6 +843,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,

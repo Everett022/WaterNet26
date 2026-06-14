@@ -62833,7 +62833,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:APC1608X100N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X100N"
 			(at 363.22 525.78 0)
 			(effects
 				(font
@@ -64127,7 +64127,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:APC1608X100N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X100N"
 			(at 497.84 505.46 0)
 			(effects
 				(font
@@ -67735,7 +67735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:APC1608X100N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X100N"
 			(at 363.22 477.52 0)
 			(effects
 				(font
@@ -75822,7 +75822,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:APC1608X100N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X100N"
 			(at 497.84 408.94 0)
 			(effects
 				(font
@@ -78215,7 +78215,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:APC1608X100N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X100N"
 			(at 363.22 429.26 0)
 			(effects
 				(font
@@ -84618,7 +84618,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:APC1608X100N"
+		(property "Footprint" "WaterNet26 Library:CAPC1608X100N"
 			(at 497.84 457.2 0)
 			(effects
 				(font

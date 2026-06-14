@@ -562,8 +562,32 @@
         },
         {
           "group_by": false,
+          "label": "A_max",
+          "name": "A_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "A_min",
+          "name": "A_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "A_nom",
+          "name": "A_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Availability",
           "name": "Availability",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "COPYRIGHT",
+          "name": "COPYRIGHT",
           "show": false
         },
         {
@@ -580,8 +604,44 @@
         },
         {
           "group_by": false,
+          "label": "D_max",
+          "name": "D_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "D_min",
+          "name": "D_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "D_nom",
+          "name": "D_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Description_1",
           "name": "Description_1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_max",
+          "name": "E_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_min",
+          "name": "E_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "E_nom",
+          "name": "E_nom",
           "show": false
         },
         {
@@ -592,8 +652,50 @@
         },
         {
           "group_by": false,
+          "label": "L1_max",
+          "name": "L1_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L1_min",
+          "name": "L1_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L1_nom",
+          "name": "L1_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_max",
+          "name": "L_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_min",
+          "name": "L_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "L_nom",
+          "name": "L_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "MANUFACTURER",
           "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER_PART_NUMBER",
+          "name": "MANUFACTURER_PART_NUMBER",
           "show": false
         },
         {
@@ -610,8 +712,20 @@
         },
         {
           "group_by": false,
+          "label": "MFR_NAME",
+          "name": "MFR_NAME",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "MP",
           "name": "MP",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
           "show": false
         },
         {
@@ -636,6 +750,18 @@
           "group_by": false,
           "label": "Mouser Price/Stock",
           "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_FARNELL",
+          "name": "OC_FARNELL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_NEWARK",
+          "name": "OC_NEWARK",
           "show": false
         },
         {
@@ -690,6 +816,12 @@
           "group_by": false,
           "label": "STANDARD",
           "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER",
+          "name": "SUPPLIER",
           "show": false
         },
         {
