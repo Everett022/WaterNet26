@@ -12308,12 +12308,6 @@
 		(uuid "1d9b025f-dcd2-4437-8a8a-32b994c32e77")
 	)
 	(junction
-		(at 54.61 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1f5a2ea3-b94c-43ab-be3c-14ac77a8ae75")
-	)
-	(junction
 		(at 72.39 541.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12380,6 +12374,12 @@
 		(uuid "35e7af01-8215-4ce4-bd90-4bb8ded40eb2")
 	)
 	(junction
+		(at 459.74 196.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39f5dd21-6b33-4d98-9c58-b3a2aee39f15")
+	)
+	(junction
 		(at 50.8 320.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12444,12 +12444,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ff86efd-cceb-4fae-87bb-02ea0317fffc")
-	)
-	(junction
-		(at 54.61 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "53454d11-0608-4ccc-9445-57d10d570afc")
 	)
 	(junction
 		(at 354.33 383.54)
@@ -12638,6 +12632,12 @@
 		(uuid "794acfe3-98f6-4d79-b533-0c5a02d7beee")
 	)
 	(junction
+		(at 54.61 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79c384ef-535a-43d9-84fe-972d7a93dd25")
+	)
+	(junction
 		(at 76.2 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12732,6 +12732,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8f75870b-a316-46b4-8303-9b8641e4ba40")
+	)
+	(junction
+		(at 459.74 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8fa41071-2bf6-43d2-9121-2e594bd341ee")
 	)
 	(junction
 		(at 35.56 424.18)
@@ -12878,6 +12884,12 @@
 		(uuid "c31e336d-b109-4907-982a-463177fbcae6")
 	)
 	(junction
+		(at 54.61 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c3881279-f4d1-44eb-a438-584b1accdee8")
+	)
+	(junction
 		(at 551.18 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12924,12 +12936,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d181b889-7bb7-4320-8a09-fe1abc4fc4d7")
-	)
-	(junction
-		(at 453.39 204.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d208d9f0-3185-4a6a-8ceb-1d759fa8e8cf")
 	)
 	(junction
 		(at 85.09 293.37)
@@ -13026,6 +13032,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e58f9a2e-7b84-40dd-8cb1-5667a3e061f7")
+	)
+	(junction
+		(at 453.39 204.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e78d3bbc-fb0f-4024-9fdb-2a870ed62016")
 	)
 	(junction
 		(at 102.87 320.04)
@@ -13184,6 +13196,16 @@
 			(type default)
 		)
 		(uuid "00f96e59-5956-4677-a7fa-b9e0c1a38505")
+	)
+	(wire
+		(pts
+			(xy 453.39 204.47) (xy 453.39 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "013fb8ad-e393-4cff-844d-1203bede67ba")
 	)
 	(wire
 		(pts
@@ -13427,6 +13449,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 91.44) (xy 29.21 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e1e4a1d-e97f-40f4-b3d2-1760c494d295")
+	)
+	(wire
+		(pts
 			(xy 285.75 163.83) (xy 300.99 163.83)
 		)
 		(stroke
@@ -13557,6 +13589,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 91.44) (xy 54.61 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "137392f0-9d52-46da-868e-1b70b4a35e59")
+	)
+	(wire
+		(pts
 			(xy 222.25 203.2) (xy 260.35 203.2)
 		)
 		(stroke
@@ -13664,16 +13706,6 @@
 			(type default)
 		)
 		(uuid "17713055-689d-4910-a0d6-288db0bee1f7")
-	)
-	(wire
-		(pts
-			(xy 38.1 106.68) (xy 54.61 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "181e2af1-5ffc-4f93-b2f6-c960f77a3fc2")
 	)
 	(wire
 		(pts
@@ -13977,6 +14009,16 @@
 	)
 	(wire
 		(pts
+			(xy 453.39 196.85) (xy 459.74 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27d10fd4-e928-4b12-b1ef-4781cb2a2809")
+	)
+	(wire
+		(pts
 			(xy 255.27 191.77) (xy 285.75 191.77)
 		)
 		(stroke
@@ -14004,16 +14046,6 @@
 			(type default)
 		)
 		(uuid "2a062bc6-552f-4045-a0e3-2fde1727e05c")
-	)
-	(wire
-		(pts
-			(xy 38.1 99.06) (xy 54.61 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a0a7b37-4f4a-4b6c-8cd1-b206ce692de6")
 	)
 	(wire
 		(pts
@@ -14154,16 +14186,6 @@
 			(type default)
 		)
 		(uuid "315bb77b-e5be-4901-a0da-20944aa48ee5")
-	)
-	(wire
-		(pts
-			(xy 453.39 194.31) (xy 453.39 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "321418a3-32b8-418e-bbd5-4109511925d7")
 	)
 	(wire
 		(pts
@@ -14947,7 +14969,7 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 189.23) (xy 445.77 189.23)
+			(xy 469.9 189.23) (xy 459.74 189.23)
 		)
 		(stroke
 			(width 0)
@@ -15024,16 +15046,6 @@
 			(type default)
 		)
 		(uuid "600ecc75-efb5-4bf0-8773-b5b4f5712b53")
-	)
-	(wire
-		(pts
-			(xy 21.59 106.68) (xy 30.48 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60b41f0f-6758-40b5-b78e-def178ba2a5d")
 	)
 	(wire
 		(pts
@@ -15207,16 +15219,6 @@
 	)
 	(wire
 		(pts
-			(xy 469.9 194.31) (xy 453.39 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a409d36-9f4e-4bc7-aa9e-0cd148a7ca63")
-	)
-	(wire
-		(pts
 			(xy 384.81 22.86) (xy 384.81 25.4)
 		)
 		(stroke
@@ -15274,16 +15276,6 @@
 			(type default)
 		)
 		(uuid "6d075037-48f6-49f2-a6eb-e4e59d055b69")
-	)
-	(wire
-		(pts
-			(xy 21.59 91.44) (xy 30.48 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d7585ee-0c17-4fa8-b3fe-7b94cff4dd4a")
 	)
 	(wire
 		(pts
@@ -15457,6 +15449,16 @@
 	)
 	(wire
 		(pts
+			(xy 459.74 196.85) (xy 469.9 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "755bfd0c-07bb-4320-bc37-3346260027f7")
+	)
+	(wire
+		(pts
 			(xy 118.11 394.97) (xy 124.46 394.97)
 		)
 		(stroke
@@ -15504,6 +15506,16 @@
 			(type default)
 		)
 		(uuid "781a3307-399e-4014-89d9-f9804ae3dc91")
+	)
+	(wire
+		(pts
+			(xy 54.61 99.06) (xy 54.61 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "781e7844-7587-4e88-8688-9fe26c978f24")
 	)
 	(wire
 		(pts
@@ -16197,6 +16209,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 106.68) (xy 54.61 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9361c7a9-3ac7-4733-a94d-73e12fee2ec7")
+	)
+	(wire
+		(pts
 			(xy 43.18 419.1) (xy 35.56 419.1)
 		)
 		(stroke
@@ -16477,6 +16499,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 106.68) (xy 29.21 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a153a395-8901-4934-8cfe-86d58e5b54c7")
+	)
+	(wire
+		(pts
 			(xy 120.65 364.49) (xy 120.65 367.03)
 		)
 		(stroke
@@ -16724,16 +16756,6 @@
 			(type default)
 		)
 		(uuid "ad2ccce7-4022-4e90-806b-4a259f775cd8")
-	)
-	(wire
-		(pts
-			(xy 38.1 91.44) (xy 54.61 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad6c0c8e-7689-43c0-be3a-00e5378d3ceb")
 	)
 	(wire
 		(pts
@@ -16987,16 +17009,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 99.06) (xy 54.61 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5d33adc-0b81-44dd-a2ac-3b68911bb9e9")
-	)
-	(wire
-		(pts
 			(xy 303.53 181.61) (xy 285.75 181.61)
 		)
 		(stroke
@@ -17154,6 +17166,16 @@
 			(type default)
 		)
 		(uuid "bebe05e2-fb77-4887-a7dc-7962311757f3")
+	)
+	(wire
+		(pts
+			(xy 469.9 196.85) (xy 469.9 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bee02a05-7ce0-4a76-a93b-da302c06b108")
 	)
 	(wire
 		(pts
@@ -17497,6 +17519,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 99.06) (xy 29.21 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d157b7fc-10e6-40ff-939e-f456ebb0a33b")
+	)
+	(wire
+		(pts
 			(xy 101.6 510.54) (xy 101.6 516.89)
 		)
 		(stroke
@@ -17777,16 +17809,6 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 99.06) (xy 30.48 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e056e587-f927-4cc1-93af-bb4198c3c0c0")
-	)
-	(wire
-		(pts
 			(xy 100.33 275.59) (xy 100.33 288.29)
 		)
 		(stroke
@@ -17887,6 +17909,16 @@
 	)
 	(wire
 		(pts
+			(xy 39.37 99.06) (xy 54.61 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e49299bc-fc17-489a-aada-2a0d28c978a1")
+	)
+	(wire
+		(pts
 			(xy 157.48 45.72) (xy 157.48 35.56)
 		)
 		(stroke
@@ -17944,6 +17976,16 @@
 			(type default)
 		)
 		(uuid "eadff442-a11e-46d2-bb48-3fdf6777fa9c")
+	)
+	(wire
+		(pts
+			(xy 459.74 189.23) (xy 445.77 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb1e1426-4bbe-4b78-ad78-cc95ec2dc6c2")
 	)
 	(wire
 		(pts
@@ -18765,6 +18807,16 @@
 		)
 		(uuid "4d9a9fe7-a10d-4a3f-aa93-cddeb6824762")
 	)
+	(label "IO BREAKOUT"
+		(at 396.24 523.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4fcd7127-6bbd-476e-a2e2-8de1de1a0b81")
+	)
 	(label "ISO_3V3"
 		(at 285.75 158.75 0)
 		(effects
@@ -19205,6 +19257,16 @@
 		)
 		(uuid "b10422c6-c090-435e-baf2-5e345548c71d")
 	)
+	(label "IO1"
+		(at 506.73 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b2b48c42-af17-4350-8354-a8f2aaf9f787")
+	)
 	(label "PGND1"
 		(at 181.61 184.15 0)
 		(effects
@@ -19374,6 +19436,16 @@
 			(justify left bottom)
 		)
 		(uuid "cf5434a0-1753-484b-8a60-815fbb6a44f2")
+	)
+	(label "IO2"
+		(at 506.73 64.77 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d1696d4e-f3d7-4782-b1e4-f1700ff6cae6")
 	)
 	(label "EXT_SIG"
 		(at 219.71 481.33 180)
@@ -22201,6 +22273,326 @@
 			(project "sensor_board"
 				(path "/380dbfce-58ed-47ea-a57e-d1c885ddf8f7"
 					(reference "J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WaterNet26 Library:CL21B104KACNNNC")
+		(at 459.74 194.31 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ea923ab-cec7-46af-9f7c-3740bd047b82")
+		(property "Reference" "C42"
+			(at 456.946 191.262 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF 25V"
+			(at 464.058 195.326 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "WaterNet26 Footprints:CAPC2012X95N"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "L1_min" "0.2"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/CL21B104KACNNNC/Samsung/view-part/?ref=eda"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMD-2 Samsung"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CL21B104KACNNNC/Samsung/view-part/?ref=snap"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC 7351B"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "E_min" "1.15"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MF" "Samsung Electro-Mechanics"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "D_min" "1.9"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "D_nom" "2.0"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "L_min" "0.2"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "E_max" "1.35"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "L_max" "0.7"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "A_max" "0.95"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "L1_nom" "0.5"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "D_max" "2.1"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "A_nom" "0.95"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "L1_max" "0.7"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "A_min" "0.95"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "CL21B104KACNNNC"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "E_nom" "1.25"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "L_nom" "0.5"
+			(at 459.74 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5d23782e-a473-4364-9a9a-23893bf2b71b")
+		)
+		(pin "1"
+			(uuid "1576ac6f-6ca7-4334-a7e9-31bec3f57ab9")
+		)
+		(instances
+			(project "sensor_board"
+				(path "/380dbfce-58ed-47ea-a57e-d1c885ddf8f7"
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -25177,6 +25569,227 @@
 		)
 	)
 	(symbol
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
+		(at 402.59 508 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30489757-b82e-4f19-860d-6dc1e4cb8b6d")
+		(property "Reference" "J22"
+			(at 402.59 490.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TSW-108-07-F-D"
+			(at 402.59 492.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WaterNet26 Footprints:SAMTEC_TSW-108-07-F-D"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "TSW - Samtec 2.54mm Pin Header  10.92mm Overall Pin Length (07) - Fast Stock"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=eda"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "R"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=snap"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TSW-108-07-F-D"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 402.59 508 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "03"
+			(uuid "30fa3bba-9533-43cd-89c2-41e8659ac562")
+		)
+		(pin "07"
+			(uuid "a8cb09d9-d33a-4a1a-9910-0f100a133f17")
+		)
+		(pin "09"
+			(uuid "415fa4d5-ddbb-4772-a565-b04110f3ac7f")
+		)
+		(pin "01"
+			(uuid "a861861d-f8b7-4aaa-987b-ded3a270d24d")
+		)
+		(pin "05"
+			(uuid "3174dc23-2da6-4bad-854b-15d0c028e5be")
+		)
+		(pin "15"
+			(uuid "e5c513e6-4577-4454-9a4b-8db82d04bf56")
+		)
+		(pin "11"
+			(uuid "4aaae3a5-3127-4565-90d6-1a4683a27fd1")
+		)
+		(pin "06"
+			(uuid "07567adc-2791-4f03-ae6d-9f0d3228c2ce")
+		)
+		(pin "13"
+			(uuid "5e882e83-b16a-43de-ac36-315c38db8acb")
+		)
+		(pin "08"
+			(uuid "dfc8512e-38aa-470a-8517-fc15f429f7ed")
+		)
+		(pin "02"
+			(uuid "74cc8ef8-5a27-4ae4-84bc-5f7da3958538")
+		)
+		(pin "14"
+			(uuid "b4ca6286-7d38-4d53-935b-5d5ef2bd0a0d")
+		)
+		(pin "04"
+			(uuid "c58b21d7-88e6-463d-b8bd-c21e9d54b484")
+		)
+		(pin "16"
+			(uuid "97e7c8d7-757e-4769-9338-0daebe41bf56")
+		)
+		(pin "10"
+			(uuid "42c8d9ef-081c-4038-a2b3-e9b6aca3062b")
+		)
+		(pin "12"
+			(uuid "c2bc651e-bf3d-4b38-88ae-6c44633cb12e")
+		)
+		(instances
+			(project "sensor_board"
+				(path "/380dbfce-58ed-47ea-a57e-d1c885ddf8f7"
+					(reference "J22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "WaterNet26 Library:BSS123-7-F")
 		(at 86.36 537.21 0)
 		(unit 1)
@@ -26334,7 +26947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:CONV_MIC28514T-E_PHA"
+		(property "Footprint" "WaterNet26 Footprints:CONV_TBA_1-0310"
 			(at 280.67 317.5 0)
 			(effects
 				(font
@@ -28772,7 +29385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:CONV_MIC28514T-E_PHA"
+		(property "Footprint" "WaterNet26 Footprints:CONV_TBA_1-0310"
 			(at 80.01 317.5 0)
 			(effects
 				(font
@@ -40676,7 +41289,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB104V"
+		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB104V"
 			(at 219.71 502.92 0)
 			(effects
 				(font
@@ -42405,7 +43018,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:CONV_MIC28514T-E_PHA"
+		(property "Footprint" "WaterNet26 Footprints:CONV_TBA_1-0310"
 			(at 280.67 205.74 0)
 			(effects
 				(font
@@ -43212,7 +43825,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet26 Library:RES_ERA6AEB104V"
+		(property "Footprint" "WaterNet26 Footprints:RES_ERA6AEB104V"
 			(at 219.71 534.67 0)
 			(effects
 				(font
@@ -43686,7 +44299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet26 Footprints:CONV_MIC28514T-E_PHA"
+		(property "Footprint" "WaterNet26 Footprints:CONV_TBA_1-0310"
 			(at 80.01 205.74 0)
 			(effects
 				(font

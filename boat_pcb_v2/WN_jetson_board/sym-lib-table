@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WaterNet Library")(type "KiCad")(uri "${KIPRJMOD}/../../WaterNet26_Library/WaterNet26.kicad_sym")(options "")(descr ""))
+)
