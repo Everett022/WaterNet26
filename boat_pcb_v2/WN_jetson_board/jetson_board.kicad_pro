@@ -694,6 +694,12 @@
         },
         {
           "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Manufacturer_Name",
           "name": "Manufacturer_Name",
           "show": false
@@ -714,6 +720,24 @@
           "group_by": false,
           "label": "Mouser Price/Stock",
           "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_FARNELL",
+          "name": "OC_FARNELL",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OC_NEWARK",
+          "name": "OC_NEWARK",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE",
+          "name": "PACKAGE",
           "show": false
         },
         {
@@ -742,6 +766,12 @@
         },
         {
           "group_by": false,
+          "label": "REFERENCE",
+          "name": "REFERENCE",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "SNAPEDA_PN",
           "name": "SNAPEDA_PN",
           "show": false
@@ -750,6 +780,12 @@
           "group_by": false,
           "label": "STANDARD",
           "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER",
+          "name": "SUPPLIER",
           "show": false
         },
         {
