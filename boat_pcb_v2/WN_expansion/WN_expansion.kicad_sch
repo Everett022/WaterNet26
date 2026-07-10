@@ -1,0 +1,2253 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "24b0230d-f2ab-4e55-8187-637bc1d5ca1e")
+	(paper "A4")
+	(lib_symbols
+		(symbol "WaterNet26 Library:TSW-108-07-F-D"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -8.12 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TSW-108-07-F-D"
+				(at -7.62 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Samtec"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "TSW - Samtec 2.54mm Pin Header  10.92mm Overall Pin Length (07) - Fast Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "R"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "TSW-108-07-F-D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Samtec"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "TSW-108-07-F-D_0_0"
+				(rectangle
+					(start -7.62 -10.16)
+					(end 7.62 12.7)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -12.7 10.16 0)
+					(length 5.08)
+					(name "01"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "01"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 7.62 0)
+					(length 5.08)
+					(name "03"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "03"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 5.08 0)
+					(length 5.08)
+					(name "05"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "05"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "07"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "07"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 0 0)
+					(length 5.08)
+					(name "09"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "09"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -2.54 0)
+					(length 5.08)
+					(name "11"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -5.08 0)
+					(length 5.08)
+					(name "13"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -7.62 0)
+					(length 5.08)
+					(name "15"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 10.16 180)
+					(length 5.08)
+					(name "02"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "02"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 7.62 180)
+					(length 5.08)
+					(name "04"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "04"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 5.08 180)
+					(length 5.08)
+					(name "06"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "06"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "08"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "08"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "10"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -2.54 180)
+					(length 5.08)
+					(name "12"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "14"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -7.62 180)
+					(length 5.08)
+					(name "16"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:+12V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+12V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+12V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+12V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+12V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:+3.3V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+3.3V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+3.3V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3.3V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 91.44 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04999943-016e-46b7-b442-507fa2924c90")
+	)
+	(junction
+		(at 72.39 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07be95f7-775a-4832-9bec-003b8b77ae7d")
+	)
+	(junction
+		(at 46.99 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "089dbb39-fdfe-4a95-b523-488752f2f23e")
+	)
+	(junction
+		(at 116.84 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0bb590d8-9902-40ed-85c8-db8440f09dc5")
+	)
+	(junction
+		(at 91.44 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d2982b4-c569-4e98-b6bd-618beda0a7c8")
+	)
+	(junction
+		(at 59.69 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "19a533c9-103a-4d94-b34d-956ab01aacdf")
+	)
+	(junction
+		(at 91.44 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1db46a7d-a20a-4bfa-894e-1530c7eedb0e")
+	)
+	(junction
+		(at 72.39 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23b09fb5-a761-4f24-a4a5-1fda8ef38eac")
+	)
+	(junction
+		(at 91.44 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24fc4e5e-40af-40ae-a7b7-ca83b4578795")
+	)
+	(junction
+		(at 116.84 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e41572b-de20-42dc-8bed-87c7a720a83e")
+	)
+	(junction
+		(at 116.84 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3eda2d65-e691-4496-a3d0-9b0524f94e9c")
+	)
+	(junction
+		(at 104.14 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ddd77d1-4bca-459f-87ce-2b4a574fd557")
+	)
+	(junction
+		(at 91.44 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62bc50f2-d92f-4fe9-8010-0f7544aae2e0")
+	)
+	(junction
+		(at 116.84 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b7b5ef9-22d2-4950-85aa-2346b3676d23")
+	)
+	(junction
+		(at 116.84 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88e54299-3ef5-4177-bc0f-9a44551b5c8e")
+	)
+	(junction
+		(at 46.99 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "92ee3704-5b22-4844-8ba8-6c2bd3f37545")
+	)
+	(junction
+		(at 46.99 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "945ef929-a8e3-444b-9d19-426addb06808")
+	)
+	(junction
+		(at 72.39 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4e7e765-82be-42c0-987d-f0ea08035dfc")
+	)
+	(junction
+		(at 72.39 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad3d2138-5845-4a55-a84a-5310dfe3b599")
+	)
+	(junction
+		(at 46.99 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bfe74ead-8315-4f0f-839f-2ca44f2dca15")
+	)
+	(junction
+		(at 116.84 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c326975a-ac82-4a44-9d6d-2bf15ae8f99a")
+	)
+	(junction
+		(at 46.99 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5f75d71-afde-4242-89f4-d146a41dd730")
+	)
+	(junction
+		(at 91.44 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c68c10f3-4123-44b3-adc3-69a59d76f610")
+	)
+	(junction
+		(at 72.39 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d357d984-8a94-4ffa-bc02-c20a7c1bb6b7")
+	)
+	(junction
+		(at 46.99 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d38310f1-0f80-4f70-95ff-ed4f232d7b69")
+	)
+	(junction
+		(at 72.39 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e0761ce0-bd26-4180-b257-80d543c4c90c")
+	)
+	(junction
+		(at 46.99 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e730cf31-1e35-4d52-9743-3241732e91b0")
+	)
+	(junction
+		(at 116.84 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "efdea63c-e0e7-447c-9f27-453b5a2e1f9b")
+	)
+	(junction
+		(at 72.39 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fae2df0c-67f3-4b82-9224-deca503054ba")
+	)
+	(junction
+		(at 91.44 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb230b26-f177-4e95-a3c2-fc89c3eb2fc7")
+	)
+	(wire
+		(pts
+			(xy 91.44 58.42) (xy 91.44 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "030411a1-1445-49c5-9108-a34818e132d7")
+	)
+	(wire
+		(pts
+			(xy 116.84 83.82) (xy 104.14 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09d92640-c304-4f33-aee0-b483e61fabc4")
+	)
+	(wire
+		(pts
+			(xy 46.99 57.15) (xy 46.99 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f9b2ac8-3750-4e99-9041-7afe527ed29b")
+	)
+	(wire
+		(pts
+			(xy 116.84 55.88) (xy 116.84 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cf5889d-4aec-41f3-8471-e55e7f36c211")
+	)
+	(wire
+		(pts
+			(xy 116.84 63.5) (xy 116.84 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2abfb130-9da0-4cbb-855a-fd5311b7eb55")
+	)
+	(wire
+		(pts
+			(xy 59.69 38.1) (xy 46.99 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cb33c92-4976-4dac-881a-c70a1cb2fda3")
+	)
+	(wire
+		(pts
+			(xy 46.99 38.1) (xy 46.99 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cd5fcba-362d-47f6-99a4-a7a6e538b849")
+	)
+	(wire
+		(pts
+			(xy 46.99 54.61) (xy 46.99 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4547abdc-1689-4242-a244-7e1c1c9c058a")
+	)
+	(wire
+		(pts
+			(xy 46.99 67.31) (xy 46.99 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "488298ec-f987-4329-b692-586af0f19741")
+	)
+	(wire
+		(pts
+			(xy 59.69 31.75) (xy 59.69 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a599d28-e722-41dc-8d52-ca502dc3466a")
+	)
+	(wire
+		(pts
+			(xy 91.44 71.12) (xy 91.44 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c9b4d83-1e59-4aa7-9d0b-755d3df12c9c")
+	)
+	(wire
+		(pts
+			(xy 91.44 63.5) (xy 91.44 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e4975a6-2285-4064-837b-5c474bd02a1e")
+	)
+	(wire
+		(pts
+			(xy 91.44 60.96) (xy 91.44 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e56fb4f-2abd-483f-ad02-a79f96eaf9af")
+	)
+	(wire
+		(pts
+			(xy 46.99 59.69) (xy 46.99 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59178d1d-18ba-4370-beff-4d4a885e624d")
+	)
+	(wire
+		(pts
+			(xy 72.39 62.23) (xy 72.39 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e027f1-ca48-46e5-a0a9-d238b202d1a6")
+	)
+	(wire
+		(pts
+			(xy 72.39 59.69) (xy 72.39 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71161e13-8dbd-4ca2-bdeb-3115690b1a71")
+	)
+	(wire
+		(pts
+			(xy 116.84 73.66) (xy 116.84 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "755f6b27-cf2b-4d14-9b2f-80fbfced56e0")
+	)
+	(wire
+		(pts
+			(xy 116.84 58.42) (xy 116.84 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85f05ac0-a741-448a-8696-88aef9e8d354")
+	)
+	(wire
+		(pts
+			(xy 72.39 57.15) (xy 72.39 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94275f49-5620-4c0d-8387-14817def46f0")
+	)
+	(wire
+		(pts
+			(xy 72.39 54.61) (xy 72.39 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96902221-6edf-42f1-9e58-69cf16c8187a")
+	)
+	(wire
+		(pts
+			(xy 72.39 69.85) (xy 72.39 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97542dda-3b93-4c91-bf6a-7858e685fec0")
+	)
+	(wire
+		(pts
+			(xy 91.44 55.88) (xy 91.44 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adc86fa4-5f0b-4d56-b00b-ef96213d95fb")
+	)
+	(wire
+		(pts
+			(xy 91.44 68.58) (xy 91.44 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7d1bf26-834f-43ba-bff0-5fb64b09db52")
+	)
+	(wire
+		(pts
+			(xy 72.39 54.61) (xy 72.39 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b97a3ca5-3ae4-4627-9326-26fad5c91e1c")
+	)
+	(wire
+		(pts
+			(xy 46.99 62.23) (xy 46.99 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6c347e4-17a2-4729-b33a-1a73bca9a49f")
+	)
+	(wire
+		(pts
+			(xy 116.84 71.12) (xy 116.84 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9861559-7343-420d-bf49-cf9b6eecec3c")
+	)
+	(wire
+		(pts
+			(xy 72.39 64.77) (xy 72.39 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9b7f433-42d8-4624-9ebd-8d393dfa6971")
+	)
+	(wire
+		(pts
+			(xy 116.84 68.58) (xy 116.84 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceffc450-ff1d-45f0-bd03-7b9ad5daaa1d")
+	)
+	(wire
+		(pts
+			(xy 72.39 67.31) (xy 72.39 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2ece1a0-4ece-4ec4-9646-6802f47b3c23")
+	)
+	(wire
+		(pts
+			(xy 116.84 66.04) (xy 116.84 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9c0ba4a-40ef-43df-a5db-8d328088d5a6")
+	)
+	(wire
+		(pts
+			(xy 46.99 64.77) (xy 46.99 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddb392f4-ff34-474b-8dd6-aad989075e31")
+	)
+	(wire
+		(pts
+			(xy 72.39 38.1) (xy 59.69 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e61a2da8-b216-4f40-9822-0530228eca41")
+	)
+	(wire
+		(pts
+			(xy 104.14 83.82) (xy 91.44 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9cb5b57-b356-4fba-90d4-572e117d8bd0")
+	)
+	(wire
+		(pts
+			(xy 116.84 60.96) (xy 116.84 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee8bee1f-8d57-495f-9d1c-d8d58cb16c97")
+	)
+	(wire
+		(pts
+			(xy 104.14 83.82) (xy 104.14 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc2f9203-3095-4f06-8ab3-2c4add5b7b76")
+	)
+	(wire
+		(pts
+			(xy 46.99 69.85) (xy 46.99 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcea640d-8de2-47b6-b8eb-07561c366cd1")
+	)
+	(wire
+		(pts
+			(xy 91.44 83.82) (xy 91.44 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe27f49a-f1e1-4504-88f7-6c087577a451")
+	)
+	(wire
+		(pts
+			(xy 91.44 66.04) (xy 91.44 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fec16cad-54b1-4111-844d-cabc8d133230")
+	)
+	(symbol
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
+		(at 152.4 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "29bce9b0-c2c7-42ac-b17f-9ed2af3a69a0")
+		(property "Reference" "J18"
+			(at 152.4 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TSW-108-07-F-D"
+			(at 152.4 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "TSW - Samtec 2.54mm Pin Header  10.92mm Overall Pin Length (07) - Fast Stock"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=eda"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "R"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=snap"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TSW-108-07-F-D"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 152.4 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "03"
+			(uuid "d0e61bf3-a18f-4247-aaec-d7004ae2b7fc")
+		)
+		(pin "07"
+			(uuid "bbe72bb8-cef5-4446-ba0c-788dd8f92c77")
+		)
+		(pin "09"
+			(uuid "b6337b7f-368b-4130-a825-e77fd47f2ebc")
+		)
+		(pin "01"
+			(uuid "dd25328e-c13c-4a33-9630-a463c40e4a7e")
+		)
+		(pin "05"
+			(uuid "e2e7b4ce-6b51-4e5c-9148-c942ab307f5b")
+		)
+		(pin "15"
+			(uuid "c6896205-f6e5-4590-97b8-900e0a63f91f")
+		)
+		(pin "11"
+			(uuid "f7244f18-0dbf-44b2-8905-3711ddebfe51")
+		)
+		(pin "06"
+			(uuid "a64d3896-09ec-412e-8486-62d4f0e42e8c")
+		)
+		(pin "13"
+			(uuid "6634a545-ee87-45ed-9327-7c1fa40bcaa5")
+		)
+		(pin "08"
+			(uuid "7cb1289a-05da-4303-9a85-972df9d80a53")
+		)
+		(pin "02"
+			(uuid "8b0a9854-8fee-47a6-8bc0-1f19e1873beb")
+		)
+		(pin "14"
+			(uuid "760fff32-f58d-42e6-b875-7685c92e77de")
+		)
+		(pin "04"
+			(uuid "d95b2f21-f906-41b2-938c-c277198b34e5")
+		)
+		(pin "16"
+			(uuid "b7758048-2270-4363-b40a-44e0f971a612")
+		)
+		(pin "10"
+			(uuid "badf8b52-2e1e-4ccd-b9f3-7e77d4645855")
+		)
+		(pin "12"
+			(uuid "1b49b1fd-aff0-46fb-a322-57eaf4eca846")
+		)
+		(instances
+			(project "WN_expansion"
+				(path "/24b0230d-f2ab-4e55-8187-637bc1d5ca1e"
+					(reference "J18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 200.66 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "379e8039-0b21-44c5-b240-3fc24dc7689e")
+		(property "Reference" "#PWR03"
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 200.66 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 200.66 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "412e701b-ec5f-42a1-8797-1c7bd3d4066a")
+		)
+		(instances
+			(project ""
+				(path "/24b0230d-f2ab-4e55-8187-637bc1d5ca1e"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
+		(at 104.14 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "453a1b13-4c89-4310-864f-df1b05494787")
+		(property "Reference" "J17"
+			(at 104.14 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TSW-108-07-F-D"
+			(at 104.14 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "TSW - Samtec 2.54mm Pin Header  10.92mm Overall Pin Length (07) - Fast Stock"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=eda"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "R"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=snap"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TSW-108-07-F-D"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 104.14 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "03"
+			(uuid "5c9ccec7-d1dd-49b3-abb6-16ac9bee962b")
+		)
+		(pin "07"
+			(uuid "71b871e4-d75e-4fdc-a682-80dd3a3d777e")
+		)
+		(pin "09"
+			(uuid "f35fcc8c-2c9a-46f1-8b74-483db69eab17")
+		)
+		(pin "01"
+			(uuid "3119a49f-654b-430e-9543-9faf37f541a4")
+		)
+		(pin "05"
+			(uuid "94123c2a-7dbe-44c4-a74a-7df55d33708e")
+		)
+		(pin "15"
+			(uuid "ffe9c2cb-cfc9-475a-b677-f78beb115130")
+		)
+		(pin "11"
+			(uuid "79b81256-e905-41f9-bd7b-8df0236dc723")
+		)
+		(pin "06"
+			(uuid "dc6d7c39-8d76-4777-91c6-a1ad3955baf5")
+		)
+		(pin "13"
+			(uuid "bb7817a7-fc2e-4f96-817d-11564e3283d7")
+		)
+		(pin "08"
+			(uuid "2767ac87-ac4d-4610-95e9-8d5b81337aa8")
+		)
+		(pin "02"
+			(uuid "ec9d7ac6-7397-4dec-b07e-2cd96abc7dc9")
+		)
+		(pin "14"
+			(uuid "a6daa4bc-1da6-4473-bd74-82aaf123d517")
+		)
+		(pin "04"
+			(uuid "28e25364-8e14-497f-a4c7-c34600aec40a")
+		)
+		(pin "16"
+			(uuid "a0fc8cd7-d375-4ea7-b5a9-3445e66d1f4f")
+		)
+		(pin "10"
+			(uuid "28c99a80-2cfd-4b63-8926-d4378f8a21de")
+		)
+		(pin "12"
+			(uuid "6b83c422-d438-4d35-99f3-895af8284969")
+		)
+		(instances
+			(project "WN_expansion"
+				(path "/24b0230d-f2ab-4e55-8187-637bc1d5ca1e"
+					(reference "J17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 59.69 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92e595ab-f3cc-4648-9cc8-8d8c4c7d9371")
+		(property "Reference" "#PWR01"
+			(at 59.69 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VBAT"
+			(at 59.69 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 59.69 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 59.69 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03b37f89-8232-42e0-99a1-ed511712170c")
+		)
+		(instances
+			(project ""
+				(path "/24b0230d-f2ab-4e55-8187-637bc1d5ca1e"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 104.14 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9980282d-ca4f-4363-aef1-8cd4a2602ca8")
+		(property "Reference" "#PWR02"
+			(at 104.14 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 104.14 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b9e5e32-9fc3-4634-a74d-35f62f63134d")
+		)
+		(instances
+			(project ""
+				(path "/24b0230d-f2ab-4e55-8187-637bc1d5ca1e"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
+		(at 59.69 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af7ec276-2854-4631-970d-aa4985881112")
+		(property "Reference" "J16"
+			(at 59.69 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TSW-108-07-F-D"
+			(at 59.69 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WaterNet26 Library:SAMTEC_TSW-108-07-F-D"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "TSW - Samtec 2.54mm Pin Header  10.92mm Overall Pin Length (07) - Fast Stock"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=eda"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "R"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=snap"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TSW-108-07-F-D"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 59.69 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "03"
+			(uuid "8e125a34-2f3e-42f8-a294-67f7c2559db8")
+		)
+		(pin "07"
+			(uuid "f91782c6-03fe-49f3-8d18-020f44a3a11b")
+		)
+		(pin "09"
+			(uuid "2c613a1e-cd3b-45ed-82bd-8e7d620e2b5d")
+		)
+		(pin "01"
+			(uuid "1cf52254-0b66-4443-ba25-025c41c9c81b")
+		)
+		(pin "05"
+			(uuid "59374fb6-63dd-4778-b8ca-a2ae7f855cf0")
+		)
+		(pin "15"
+			(uuid "2cec0d74-2d1d-4057-b46a-cb78c7aaa8f4")
+		)
+		(pin "11"
+			(uuid "ed3ccb5b-bce5-48e7-ac65-1d1611206cf6")
+		)
+		(pin "06"
+			(uuid "0220e1b0-d704-4edf-8f28-bb19509717c3")
+		)
+		(pin "13"
+			(uuid "78189730-9bfb-49fd-a12f-b70ec285f095")
+		)
+		(pin "08"
+			(uuid "33000f36-52c1-4826-ac39-10f573a3a9da")
+		)
+		(pin "02"
+			(uuid "c7dad4c6-e868-4b46-beff-42917f4d82b9")
+		)
+		(pin "14"
+			(uuid "204f8edc-ec77-43ac-8193-85313d88cc02")
+		)
+		(pin "04"
+			(uuid "4e950c01-cc88-41fd-bb0d-f073fd0ce471")
+		)
+		(pin "16"
+			(uuid "8d2a97af-a84f-4610-a24d-f8b1e06f52ad")
+		)
+		(pin "10"
+			(uuid "7919c0f1-c98e-424c-b77c-d0f0f32824de")
+		)
+		(pin "12"
+			(uuid "d1de372c-6388-4288-b632-b25bfc0a7d0a")
+		)
+		(instances
+			(project "WN_expansion"
+				(path "/24b0230d-f2ab-4e55-8187-637bc1d5ca1e"
+					(reference "J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
