@@ -1,4 +1,4 @@
-25335709537267132
+25341055515806982
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101283,6 +101283,13 @@ Varistor VF
 2
 2
 WaterNet26 Footprints
+61300811821
+
+
+0
+8
+8
+WaterNet26 Footprints
 AMASS_XT60-M
 
 
@@ -101452,6 +101459,13 @@ IC_CP2102N-A02-GQFN28R
 29
 WaterNet26 Footprints
 INDC1608X95N
+
+
+0
+2
+2
+WaterNet26 Footprints
+IND_PA4342.682NLT
 
 
 0
@@ -101653,6 +101667,13 @@ SULLINS_NPPN101BFCN-RC
 0
 20
 10
+WaterNet26 Footprints
+SULLINS_PPTC041LFBN-RC
+
+
+0
+4
+4
 WaterNet26 Footprints
 SW_PTS810_SJM_250_SMTR_LFS
 
