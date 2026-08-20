@@ -437,23 +437,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U1"
-				(at 0 17.78 0)
+			(property "Reference" "U"
+				(at -10.16 13.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Value" "MAX14933ASE_T"
-				(at 0 15.24 0)
+				(at -10.16 -16.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" "WaterNet26 Footprints:SOIC127P600X175-16N"
+			(property "Footprint" "MAX14933ASE_T:SOIC127P600X175-16N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -472,16 +474,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Analog Devices"
+			(property "Description" "Dgtl Iso 2.75kv 2ch 16soic"
 				(at 0 0 0)
 				(effects
 					(font
@@ -491,7 +484,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "Dgtl Iso 2.75kv 2ch 16soic"
+			(property "MF" "Analog Devices"
 				(at 0 0 0)
 				(effects
 					(font
@@ -599,46 +592,6 @@
 					)
 					(justify bottom)
 					(hide yes)
-				)
-			)
-			(property "Height" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer_Name" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer_Part_Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "MAX14933ASE_T_1_0_0"
@@ -911,44 +864,6 @@
 					)
 				)
 			)
-			(symbol "MAX14933ASE_T_1_1_0"
-				(pin no_connect line
-					(at -10.16 10.16 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at -10.16 7.62 180)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
 			(embedded_fonts no)
 		)
 		(symbol "MAX14933ASE_T_2"
@@ -958,23 +873,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U6"
-				(at 0 17.78 0)
+			(property "Reference" "U"
+				(at -10.16 13.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Value" "MAX14933ASE_T"
-				(at 0 15.24 0)
+				(at -10.16 -16.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" "WaterNet26 Footprints:SOIC127P600X175-16N"
+			(property "Footprint" "MAX14933ASE_T:SOIC127P600X175-16N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -993,16 +910,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Analog Devices"
+			(property "Description" "Dgtl Iso 2.75kv 2ch 16soic"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1012,7 +920,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "Dgtl Iso 2.75kv 2ch 16soic"
+			(property "MF" "Analog Devices"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1120,46 +1028,6 @@
 					)
 					(justify bottom)
 					(hide yes)
-				)
-			)
-			(property "Height" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer_Name" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer_Part_Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "MAX14933ASE_T_2_0_0"
@@ -1432,44 +1300,6 @@
 					)
 				)
 			)
-			(symbol "MAX14933ASE_T_2_1_0"
-				(pin no_connect line
-					(at -10.16 10.16 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at -10.16 7.62 180)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
 			(embedded_fonts no)
 		)
 		(symbol "MAX14933ASE_T_3"
@@ -1479,23 +1309,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U7"
-				(at 0 17.78 0)
+			(property "Reference" "U"
+				(at -10.16 13.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Value" "MAX14933ASE_T"
-				(at 0 15.24 0)
+				(at -10.16 -16.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" "WaterNet26 Footprints:SOIC127P600X175-16N"
+			(property "Footprint" "MAX14933ASE_T:SOIC127P600X175-16N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1514,16 +1346,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Analog Devices"
+			(property "Description" "Dgtl Iso 2.75kv 2ch 16soic"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1533,7 +1356,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "Dgtl Iso 2.75kv 2ch 16soic"
+			(property "MF" "Analog Devices"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1641,46 +1464,6 @@
 					)
 					(justify bottom)
 					(hide yes)
-				)
-			)
-			(property "Height" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer_Name" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer_Part_Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "MAX14933ASE_T_3_0_0"
@@ -1945,44 +1728,6 @@
 						)
 					)
 					(number "9"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MAX14933ASE_T_3_1_0"
-				(pin no_connect line
-					(at -10.16 10.16 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at -10.16 7.62 180)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number ""
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -8687,23 +8432,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U5"
-				(at 0 17.78 0)
+			(property "Reference" "U"
+				(at -10.16 13.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Value" "MAX14933ASE_T"
-				(at 0 15.24 0)
+				(at -10.16 -16.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" "WaterNet26 Footprints:SOIC127P600X175-16N"
+			(property "Footprint" "MAX14933ASE_T:SOIC127P600X175-16N"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8722,16 +8469,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "Analog Devices"
+			(property "Description" "Dgtl Iso 2.75kv 2ch 16soic"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8741,7 +8479,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "Dgtl Iso 2.75kv 2ch 16soic"
+			(property "MF" "Analog Devices"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8849,46 +8587,6 @@
 					)
 					(justify bottom)
 					(hide yes)
-				)
-			)
-			(property "Height" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer_Name" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer_Part_Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Mouser Part Number" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Mouser Price/Stock" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "MAX14933ASE_T_0_0"
@@ -9153,44 +8851,6 @@
 						)
 					)
 					(number "9"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(symbol "MAX14933ASE_T_1_0"
-				(pin no_connect line
-					(at -10.16 10.16 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin no_connect line
-					(at -10.16 7.62 180)
-					(length 5.08)
-					(name "13"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number ""
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -14543,6 +14203,12 @@
 		(uuid "5c3114f1-c956-4e14-8d15-81f052808d99")
 	)
 	(junction
+		(at 619.76 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c453eae-4837-43c3-b8e8-c041c60d69d0")
+	)
+	(junction
 		(at 251.46 320.04)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14879,6 +14545,12 @@
 		(uuid "a2335b9b-7bff-4bda-bb35-f8d0560fc978")
 	)
 	(junction
+		(at 619.76 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2f83e01-f78e-4b57-a778-eedf344b1cbf")
+	)
+	(junction
 		(at 161.29 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15197,10 +14869,6 @@
 		(uuid "fdaa8a23-c493-43d1-a550-a1f35bc22304")
 	)
 	(no_connect
-		(at 54.61 158.75)
-		(uuid "00d30456-612e-48b1-81af-a47a127747a7")
-	)
-	(no_connect
 		(at 189.23 417.83)
 		(uuid "01d22265-ad4c-4dac-82f7-f0a86e4a10b6")
 	)
@@ -15219,14 +14887,6 @@
 	(no_connect
 		(at 189.23 425.45)
 		(uuid "35f169c4-33d9-432d-bf16-9be4a24608c3")
-	)
-	(no_connect
-		(at 54.61 270.51)
-		(uuid "3e7c780a-aaf2-4b6b-8d2a-788cfa4c9fa2")
-	)
-	(no_connect
-		(at 255.27 158.75)
-		(uuid "4150b7f6-590a-44e1-92a5-609838f7e307")
 	)
 	(no_connect
 		(at 43.18 411.48)
@@ -15249,16 +14909,8 @@
 		(uuid "80d60db9-f7e9-4528-bde8-328e5d35cad6")
 	)
 	(no_connect
-		(at 54.61 156.21)
-		(uuid "8109dc06-8cb4-42ae-998e-d17b038157e3")
-	)
-	(no_connect
 		(at 189.23 415.29)
 		(uuid "9216142f-14ba-4e71-8d7e-c75b69619473")
-	)
-	(no_connect
-		(at 255.27 156.21)
-		(uuid "aa81bc41-1452-4f6c-8312-2a7270fa4a72")
 	)
 	(no_connect
 		(at 281.94 71.12)
@@ -15267,18 +14919,6 @@
 	(no_connect
 		(at 189.23 422.91)
 		(uuid "c10bf98b-ce85-4814-a6fd-e4c51bc4779b")
-	)
-	(no_connect
-		(at 255.27 267.97)
-		(uuid "d750e77d-76f1-4073-b140-5013784dbf74")
-	)
-	(no_connect
-		(at 255.27 270.51)
-		(uuid "dc7aa7af-a801-4a1c-9f95-a0599e12653e")
-	)
-	(no_connect
-		(at 54.61 267.97)
-		(uuid "dcdf8530-34e4-47d4-aaf3-00b901750f3c")
 	)
 	(no_connect
 		(at 471.17 290.83)
@@ -15875,6 +15515,16 @@
 			(type default)
 		)
 		(uuid "1904a9e2-24c3-4a45-834a-81b79ffd52fe")
+	)
+	(wire
+		(pts
+			(xy 588.01 85.09) (xy 588.01 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "192c4a4d-df7c-4d5d-952a-1cb61aa68b84")
 	)
 	(wire
 		(pts
@@ -17568,6 +17218,16 @@
 	)
 	(wire
 		(pts
+			(xy 594.36 85.09) (xy 588.01 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7418748a-24cc-4f92-a329-c5c8d783cd41")
+	)
+	(wire
+		(pts
 			(xy 168.91 90.17) (xy 168.91 93.98)
 		)
 		(stroke
@@ -17665,6 +17325,16 @@
 			(type default)
 		)
 		(uuid "771c7dc9-f58e-4547-8ba9-aacbf2e40a79")
+	)
+	(wire
+		(pts
+			(xy 619.76 85.09) (xy 633.73 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77633a43-1af3-4bb6-980c-e70e68f683c6")
 	)
 	(wire
 		(pts
@@ -19348,6 +19018,16 @@
 	)
 	(wire
 		(pts
+			(xy 619.76 80.01) (xy 619.76 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be46be3b-c64f-4db3-a132-7eb5009d2b2c")
+	)
+	(wire
+		(pts
 			(xy 326.39 547.37) (xy 326.39 548.64)
 		)
 		(stroke
@@ -20328,6 +20008,16 @@
 	)
 	(wire
 		(pts
+			(xy 619.76 82.55) (xy 619.76 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3c5a243-5def-49f7-b7a6-9bd4a8bea3cf")
+	)
+	(wire
+		(pts
 			(xy 551.18 36.83) (xy 562.61 36.83)
 		)
 		(stroke
@@ -20696,6 +20386,16 @@
 		)
 		(uuid "0e37b4e4-1609-4123-a5de-d0a6c396db07")
 	)
+	(label "IO48"
+		(at 619.76 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "114f0ca2-dc18-4a4e-9cc5-801380f7aac6")
+	)
 	(label "USB_D2-"
 		(at 92.71 406.4 0)
 		(effects
@@ -20715,6 +20415,16 @@
 			(justify left bottom)
 		)
 		(uuid "131ce956-ef8f-4b20-8792-01b4ad09327b")
+	)
+	(label "IO6"
+		(at 594.36 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "16cdd318-813e-4810-8e9b-18727115d4ce")
 	)
 	(label "ISO_SDA_3"
 		(at 285.75 166.37 0)
@@ -20806,6 +20516,16 @@
 		)
 		(uuid "1edf7592-d46c-44b2-a82a-28ce4699255d")
 	)
+	(label "IO17"
+		(at 594.36 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "22d55298-c5fd-4d5c-bad3-ae5b547053ab")
+	)
 	(label "LEAK_DET_S"
 		(at 330.2 504.19 180)
 		(effects
@@ -20856,6 +20576,16 @@
 		)
 		(uuid "27eafd52-5171-4f01-b10b-833fb132f8b6")
 	)
+	(label "IO3"
+		(at 506.73 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2ae4208c-a5c2-41fc-8b38-3f1b38ed41c6")
+	)
 	(label "RGB_B"
 		(at 44.45 483.87 180)
 		(effects
@@ -20875,6 +20605,16 @@
 			(justify left bottom)
 		)
 		(uuid "2c9241e5-fe83-4315-9fb4-c4d17ee46222")
+	)
+	(label "IO47"
+		(at 537.21 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ca6192e-326e-4973-8a8e-1d55fe60d213")
 	)
 	(label "PRB4"
 		(at 325.12 262.89 270)
@@ -20926,6 +20666,16 @@
 		)
 		(uuid "35988c48-6a4e-4810-b4d2-67d6fa0f84c2")
 	)
+	(label "IO42"
+		(at 537.21 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "360ef866-33b6-448f-a547-82db391e2ea7")
+	)
 	(label "PRB1"
 		(at 124.46 151.13 270)
 		(effects
@@ -20955,6 +20705,16 @@
 			(justify left bottom)
 		)
 		(uuid "3d74fd26-45aa-4ea6-892f-1b249f92537b")
+	)
+	(label "IO41"
+		(at 619.76 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3da450e4-2095-4190-b75b-feebd7e30e91")
 	)
 	(label "PGND1"
 		(at 127 151.13 270)
@@ -21006,6 +20766,26 @@
 		)
 		(uuid "446d48d3-e7d9-4460-a11f-9e6dc8700ca7")
 	)
+	(label "IO2"
+		(at 594.36 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "47a9cbf3-9a51-4dc3-a03a-3d30d8dcf2ef")
+	)
+	(label "IO1"
+		(at 594.36 67.31 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "48267e46-bed7-4fce-8e53-fa5478abde7c")
+	)
 	(label "SCL"
 		(at 311.15 391.16 90)
 		(effects
@@ -21027,7 +20807,7 @@
 		(uuid "4d9a9fe7-a10d-4a3f-aa93-cddeb6824762")
 	)
 	(label "IO BREAKOUT"
-		(at 396.24 523.24 0)
+		(at 600.71 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21206,6 +20986,16 @@
 		)
 		(uuid "6a33d0fa-d2f6-48a5-ba2c-55abe36696ff")
 	)
+	(label "IO18"
+		(at 594.36 82.55 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6bdda6e8-c1ed-48ba-a16d-1f975ae27dde")
+	)
 	(label "USB_CTS"
 		(at 355.6 506.73 0)
 		(effects
@@ -21215,6 +21005,16 @@
 			(justify left bottom)
 		)
 		(uuid "6c868a07-5dd0-4f11-845c-483990d559ac")
+	)
+	(label "IO17"
+		(at 537.21 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6cd4ffd2-9959-4fa6-bad9-06a71cea0b26")
 	)
 	(label "USB_TX"
 		(at 330.2 501.65 180)
@@ -21266,6 +21066,16 @@
 		)
 		(uuid "7aa8c4a2-ead6-4191-8f74-3c1d01ed65f1")
 	)
+	(label "IO7"
+		(at 506.73 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7f816b5e-a89f-42c2-b7d5-fca1c31a7dd7")
+	)
 	(label "RGB_R"
 		(at 44.45 535.94 180)
 		(effects
@@ -21305,6 +21115,16 @@
 			(justify right bottom)
 		)
 		(uuid "8f0e8054-27ff-4742-9a2d-e663f3f8e22f")
+	)
+	(label "IO7"
+		(at 594.36 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "91103fac-ef49-4e02-970f-753b4360ac43")
 	)
 	(label "PRB3"
 		(at 379.73 177.8 0)
@@ -21346,6 +21166,16 @@
 		)
 		(uuid "985bcdaf-391e-46eb-8b7a-0d1c27337efd")
 	)
+	(label "IO42"
+		(at 619.76 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9a4380a9-55b8-4511-a8ee-cb5fe1f23530")
+	)
 	(label "SYS_RST"
 		(at 506.73 46.99 180)
 		(effects
@@ -21376,6 +21206,16 @@
 		)
 		(uuid "9cd3bc04-d642-4870-ac40-bd2c8b904d71")
 	)
+	(label "IO18"
+		(at 537.21 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a05b55dc-4f96-469b-83c0-2ca5c5c4df62")
+	)
 	(label "ISO_SDA_2"
 		(at 85.09 278.13 0)
 		(effects
@@ -21395,6 +21235,16 @@
 			(justify left bottom)
 		)
 		(uuid "a5a8cdd2-4ab9-464f-9dba-9058e4f2e479")
+	)
+	(label "IO40"
+		(at 537.21 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7c4afb0-8fff-40f3-8f54-402b00429ba2")
 	)
 	(label "RGB_B"
 		(at 330.2 537.21 180)
@@ -21476,6 +21326,16 @@
 		)
 		(uuid "b349eaba-c611-48c1-b6ee-0fe2ffe071b5")
 	)
+	(label "IO41"
+		(at 537.21 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b4009ef0-c015-401e-bad5-cf3a69192570")
+	)
 	(label "OFFBOARD_DET"
 		(at 355.6 532.13 0)
 		(effects
@@ -21555,6 +21415,16 @@
 			(justify left bottom)
 		)
 		(uuid "c2ed0d10-d92b-4797-819b-52160dc7fa9a")
+	)
+	(label "IO48"
+		(at 537.21 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c7842ff4-06d1-4f8f-beec-3a81502807e0")
 	)
 	(label "SDA"
 		(at 255.27 166.37 180)
@@ -21676,6 +21546,16 @@
 		)
 		(uuid "dcebc429-41e0-4620-ae75-02cc137c9cee")
 	)
+	(label "IO40"
+		(at 619.76 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e3324e8c-0d06-48f6-b579-8fccfabca026")
+	)
 	(label "SEN_POW"
 		(at 537.21 92.71 0)
 		(effects
@@ -21685,6 +21565,16 @@
 			(justify left bottom)
 		)
 		(uuid "e37e2e60-842b-456d-a619-82936441d3b3")
+	)
+	(label "IO6"
+		(at 506.73 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e9516548-f7f6-42ee-bda2-b55c5ef11a60")
 	)
 	(label "CS"
 		(at 506.73 87.63 180)
@@ -21705,6 +21595,16 @@
 			(justify right bottom)
 		)
 		(uuid "ee82a276-9267-4193-a1db-fbf576110c69")
+	)
+	(label "IO47"
+		(at 619.76 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f01c56ef-66fe-4a9d-bfd7-acbdc15f4adf")
 	)
 	(label "ISO_GND_3"
 		(at 306.07 194.31 0)
@@ -21755,6 +21655,16 @@
 			(justify right bottom)
 		)
 		(uuid "f45875a5-5718-4218-8140-6097407b9e34")
+	)
+	(label "IO3"
+		(at 594.36 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f557e284-e02b-4895-b3f3-f5e39f05799e")
 	)
 	(label "LEAK_DET_OFFBD_S"
 		(at 330.2 506.73 180)
@@ -23248,6 +23158,72 @@
 			(project "sensor_board"
 				(path "/380dbfce-58ed-47ea-a57e-d1c885ddf8f7"
 					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 588.01 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "092c7451-f8f9-45cd-b803-d479ca778875")
+		(property "Reference" "#PWR067"
+			(at 588.01 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 588.01 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 588.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 588.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 588.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f94cb1f4-8388-4c6c-8f81-da1b6c10d04e")
+		)
+		(instances
+			(project "sensor_board"
+				(path "/380dbfce-58ed-47ea-a57e-d1c885ddf8f7"
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -27749,7 +27725,7 @@
 	)
 	(symbol
 		(lib_id "WaterNet26 Library:TSW-108-07-F-D")
-		(at 402.59 508 0)
+		(at 607.06 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27758,7 +27734,7 @@
 		(fields_autoplaced yes)
 		(uuid "30489757-b82e-4f19-860d-6dc1e4cb8b6d")
 		(property "Reference" "J22"
-			(at 402.59 490.22 0)
+			(at 607.06 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27766,7 +27742,7 @@
 			)
 		)
 		(property "Value" "TSW-108-07-F-D"
-			(at 402.59 492.76 0)
+			(at 607.06 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27774,7 +27750,7 @@
 			)
 		)
 		(property "Footprint" "WaterNet26 Footprints:SAMTEC_TSW-108-07-F-D"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27784,7 +27760,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27793,7 +27769,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27802,7 +27778,7 @@
 			)
 		)
 		(property "MF" "Samtec"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27812,7 +27788,7 @@
 			)
 		)
 		(property "Description_1" "TSW - Samtec 2.54mm Pin Header  10.92mm Overall Pin Length (07) - Fast Stock"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27822,7 +27798,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27832,7 +27808,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27842,7 +27818,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=eda"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27852,7 +27828,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27862,7 +27838,7 @@
 			)
 		)
 		(property "PARTREV" "R"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27872,7 +27848,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSW-108-07-F-D/Samtec+Inc./view-part/?ref=snap"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27882,7 +27858,7 @@
 			)
 		)
 		(property "MP" "TSW-108-07-F-D"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27892,7 +27868,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27902,7 +27878,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Samtec"
-			(at 402.59 508 0)
+			(at 607.06 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28881,7 +28857,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dgtl Iso 2.75kv 2ch 16soic"
 			(at 270.51 278.13 0)
 			(effects
 				(font
@@ -29091,12 +29067,6 @@
 		)
 		(pin "9"
 			(uuid "dcbe87ad-da4e-467e-8522-2f1ffe8e86ed")
-		)
-		(pin ""
-			(uuid "95a70606-bb65-4390-aa80-caee0a4581f1")
-		)
-		(pin ""
-			(uuid "ad80f2a9-bad8-4412-a59d-f454a5b7c7e6")
 		)
 		(instances
 			(project "sensor_board"
@@ -32862,7 +32832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dgtl Iso 2.75kv 2ch 16soic"
 			(at 69.85 278.13 0)
 			(effects
 				(font
@@ -33072,12 +33042,6 @@
 		)
 		(pin "9"
 			(uuid "d7a7ba48-4b0f-43df-a295-4bfa32853809")
-		)
-		(pin ""
-			(uuid "29b31c07-2200-45ba-bccd-cf2b04109c9d")
-		)
-		(pin ""
-			(uuid "5ab43197-f3aa-4845-9c84-e44b3637ab28")
 		)
 		(instances
 			(project "sensor_board"
@@ -35046,7 +35010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dgtl Iso 2.75kv 2ch 16soic"
 			(at 69.85 166.37 0)
 			(effects
 				(font
@@ -35256,12 +35220,6 @@
 		)
 		(pin "9"
 			(uuid "d8791fb3-0c42-4a03-b55e-b9e416e900ba")
-		)
-		(pin ""
-			(uuid "cbabaeef-9bdc-4357-8883-f506b596aca4")
-		)
-		(pin ""
-			(uuid "a1ad381a-aa84-4563-b249-b74d47367a84")
 		)
 		(instances
 			(project ""
@@ -37398,7 +37356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dgtl Iso 2.75kv 2ch 16soic"
 			(at 270.51 166.37 0)
 			(effects
 				(font
@@ -37608,12 +37566,6 @@
 		)
 		(pin "9"
 			(uuid "c6f12864-92c7-4a3d-968c-bcb9d80019d6")
-		)
-		(pin ""
-			(uuid "8067da8c-4eda-4dc6-9ef4-07675c46a198")
-		)
-		(pin ""
-			(uuid "25bc85cd-0138-4e78-a011-c33b47360621")
 		)
 		(instances
 			(project "sensor_board"
@@ -46672,6 +46624,72 @@
 			(project "sensor_board"
 				(path "/380dbfce-58ed-47ea-a57e-d1c885ddf8f7"
 					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 633.73 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d8459eb2-d79b-41a1-b765-d71ef27ebace")
+		(property "Reference" "#PWR068"
+			(at 633.73 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 633.73 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 633.73 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 633.73 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 633.73 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3ee1ecee-1127-4028-a30a-2ca06e2833de")
+		)
+		(instances
+			(project "sensor_board"
+				(path "/380dbfce-58ed-47ea-a57e-d1c885ddf8f7"
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)

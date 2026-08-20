@@ -33184,7 +33184,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dc63e087-41f2-4f02-bdb3-01ca7606da16")
 		(property "Reference" "#PWR01"
 			(at 38.1 74.93 0)
@@ -33195,12 +33194,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+12V"
-			(at 38.1 66.04 0)
+		(property "Value" "+VBAT"
+			(at 35.56 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
